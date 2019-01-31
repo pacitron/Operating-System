@@ -1,0 +1,134 @@
+PMT for 15VTU:
+Page number  Frame number
+3   		  12
+------------------
+PMT for 30VTU:
+Page number  Frame number
+3   		  12
+19   		  13
+------------------
+PMT for 45VTU:
+Page number  Frame number
+3   		  12
+19   		  13
+------------------
+PMT for 60VTU:
+Page number  Frame number
+3   		  12
+19   		  13
+4   		  14
+------------------
+PMT for 75VTU:
+Page number  Frame number
+3   		  12
+19   		  13
+4   		  14
+------------------
+PMT for 90VTU:
+Page number  Frame number
+3   		  12
+19   		  13
+4   		  14
+0   		  15
+------------------
+PMT for 105VTU:
+Page number  Frame number
+3   		  12
+19   		  13
+4   		  14
+0   		  15
+------------------
+PMT for 120VTU:
+Page number  Frame number
+3   		  12
+19   		  13
+4   		  14
+0   		  15
+1   		  16
+------------------
+PMT for 135VTU:
+Page number  Frame number
+3   		  12
+19   		  13
+4   		  14
+0   		  15
+1   		  16
+------------------
+PMT for 150VTU:
+Page number  Frame number
+3   		  12
+19   		  13
+4   		  14
+0   		  15
+1   		  16
+------------------
+PMT for 165VTU:
+Page number  Frame number
+3   		  12
+19   		  13
+4   		  14
+0   		  15
+1   		  16
+2   		  17
+------------------
+PMT for 180VTU:
+Page number  Frame number
+3   		  12
+19   		  13
+4   		  14
+0   		  15
+1   		  16
+2   		  17
+------------------
+PMT for 195VTU:
+Page number  Frame number
+13   		  12
+19   		  13
+4   		  14
+0   		  15
+1   		  16
+2   		  17
+------------------
+PMT for 210VTU:
+Page number  Frame number
+13   		  12
+19   		  13
+4   		  14
+0   		  15
+1   		  16
+2   		  17
+------------------
+PMT for 225VTU:
+Page number  Frame number
+13    		 12
+19    		 13
+4    		 14
+0    		 15
+1    		 16
+2    		 17
+INPUT
+19    		 13
+OUTPUT
+13    		 12
+------------------
+Job Identification number(HEX): 01
+nature of termination: normal
+input segment:
+0000000000011111
+output segment:
+0000000000011111
+0000000000001010
+clock value(HEX):ec
+runtime(DECIMAL):236
+Execution time(DECIMAL):121
+input/output time(DECIMAL):45
+Page fault time(DEC) :60
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 14.06% Ratio: 1:7.11
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.1% Ratio: 1:47.63
+Pages:- Percentage: 2.73% Ratio: 1:36.57
+Memory fragmentation(DEC) :0
+Disk fragmentation(DEC)   :3.3333333333333335

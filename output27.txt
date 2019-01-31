@@ -1,0 +1,271 @@
+PMT for 15VTU:
+Page number  Frame number
+0   		  6
+------------------
+PMT for 30VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+------------------
+PMT for 45VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+------------------
+PMT for 60VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+------------------
+PMT for 75VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+------------------
+PMT for 90VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+------------------
+PMT for 105VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+------------------
+PMT for 120VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+------------------
+PMT for 135VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+------------------
+PMT for 150VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+12   		  11
+------------------
+PMT for 165VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+12   		  11
+------------------
+PMT for 180VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+12   		  11
+------------------
+PMT for 195VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+12   		  11
+------------------
+PMT for 210VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+12   		  11
+------------------
+PMT for 225VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+12   		  11
+------------------
+PMT for 240VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+12   		  11
+------------------
+PMT for 255VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+12   		  11
+------------------
+PMT for 270VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+12   		  11
+------------------
+PMT for 285VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+12   		  11
+------------------
+PMT for 300VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+12   		  11
+------------------
+PMT for 315VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+12   		  11
+------------------
+PMT for 330VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+12   		  11
+------------------
+PMT for 345VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+12   		  11
+------------------
+PMT for 360VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+12   		  11
+------------------
+PMT for 375VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+12   		  11
+------------------
+PMT for 390VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+12   		  11
+------------------
+PMT for 405VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+12   		  11
+------------------
+PMT for 420VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+12   		  11
+------------------
+PMT for 435VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+12   		  11
+------------------
+PMT for 450VTU:
+Page number  Frame number
+0   		  6
+17   		  7
+2   		  8
+3   		  9
+1   		  10
+12   		  11
+------------------
+Job Identification number(HEX): 01
+nature of termination: normal
+input segment:
+0000000000000101
+output segment:
+0000000000000001
+0000000000000010
+0000000000000011
+0000000000000101
+0000000000001000
+clock value(HEX):1c7
+runtime(DECIMAL):455
+Execution time(DECIMAL):305
+input/output time(DECIMAL):90
+Page fault time(DEC) :50
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 14.84% Ratio: 1:6.74
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 1.81% Ratio: 1:55.35
+Pages:- Percentage: 2.34% Ratio: 1:42.67
+Memory fragmentation(DEC) :0
+Disk fragmentation(DEC)   :2.0

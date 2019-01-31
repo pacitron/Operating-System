@@ -1,0 +1,4602 @@
+SNAPSHOT at 500 VTU-----------------------------------+
+Ready queue: 2 3 4 5 
+Id of current job executing: 1
+Memory utilization: 15.625
+Disk utilization: 0.68359375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 1000 VTU-----------------------------------+
+Ready queue: 2 3 4 5 
+Id of current job executing: 1
+Memory utilization: 15.625
+Disk utilization: 0.68359375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+2    		 0
+6    		 1
+0    		 2
+4    		 3
+1    		 4
+3    		 5
+OUTPUT
+0    		 2
+------------------
+Job Identification number(DEC): 1
+nature of termination: normal
+input segment:
+0000000000000100
+0000000000010000
+0000000000100000
+output segment:
+0000000000000100
+0000000000010000
+0000000000100000
+clock value(HEX):11f
+runtime(DECIMAL):287
+Execution time(DECIMAL):97
+input/output time(DECIMAL):90
+Page fault time(DEC) :80
+Segment fault time(DEC) :20
+Memory utilization:
+Words:- Percentage: 16.8% Ratio: 1:5.95
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 3.03% Ratio: 1:33.03
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 80
+Departure time(dec): 1120
+turnaround time(dec): 1040
+
+PMT 
+Page number  Frame number
+2    		 6
+3    		 7
+15    		 8
+5    		 9
+4    		 10
+1    		 11
+INPUT
+15    		 8
+------------------
+Job Identification number(DEC): 2
+nature of termination: normal
+input segment:
+0000000000000011
+0000000000001001
+output segment:
+0000000000000011
+clock value(HEX):107
+runtime(DECIMAL):263
+Execution time(DECIMAL):133
+input/output time(DECIMAL):45
+Page fault time(DEC) :70
+Segment fault time(DEC) :15
+Memory utilization:
+Words:- Percentage: 14.45% Ratio: 1:6.92
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.34% Ratio: 1:42.67
+Pages:- Percentage: 3.12% Ratio: 1:32
+Arrival time(dec): 1120
+Departure time(dec): 1160
+turnaround time(dec): 40
+
+PMT 
+Page number  Frame number
+3    		 18
+2    		 19
+25    		 20
+5    		 21
+4    		 22
+1    		 23
+OUTPUT
+25    		 20
+------------------
+Job Identification number(DEC): 4
+nature of termination: normal
+input segment:
+0000000000000010
+0000000000010000
+0000000000101000
+output segment:
+0000000000000010
+0000000000010000
+0000000000101000
+clock value(HEX):13d
+runtime(DECIMAL):317
+Execution time(DECIMAL):97
+input/output time(DECIMAL):90
+Page fault time(DEC) :110
+Segment fault time(DEC) :20
+Memory utilization:
+Words:- Percentage: 12.11% Ratio: 1:8.26
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 3.03% Ratio: 1:33.03
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 1160
+Departure time(dec): 1420
+turnaround time(dec): 260
+
+SNAPSHOT at 1500 VTU-----------------------------------+
+Ready queue: 8 5 6 7 
+Id of current job executing: 3
+Memory utilization: 18.75
+Disk utilization: 0.68359375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+0    		 24
+3    		 25
+38    		 26
+2    		 27
+1    		 28
+34    		 29
+INPUT
+38    		 26
+OUTPUT
+34    		 29
+------------------
+Job Identification number(DEC): 5
+nature of termination: normal
+input segment:
+0000000000000111
+output segment:
+0000000010000000
+clock value(HEX):18b
+runtime(DECIMAL):395
+Execution time(DECIMAL):305
+input/output time(DECIMAL):30
+Page fault time(DEC) :50
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 10.94% Ratio: 1:9.14
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.27% Ratio: 1:78.77
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 1420
+Departure time(dec): 1960
+turnaround time(dec): 540
+
+SNAPSHOT at 2000 VTU-----------------------------------+
+Ready queue: 3 8 9 6 
+Id of current job executing: 7
+Memory utilization: 15.625
+Disk utilization: 0.68359375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+5    		 0
+39    		 1
+0    		 2
+2    		 3
+3    		 4
+4    		 5
+OUTPUT
+39    		 1
+------------------
+Job Identification number(DEC): 6
+nature of termination: normal
+input segment:
+0000000000000100
+0000000000000001
+output segment:
+0000000000000100
+0000000000001000
+0000000000000000
+clock value(HEX):10d
+runtime(DECIMAL):269
+Execution time(DECIMAL):109
+input/output time(DECIMAL):75
+Page fault time(DEC) :70
+Segment fault time(DEC) :15
+Memory utilization:
+Words:- Percentage: 10.94% Ratio: 1:9.14
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.49% Ratio: 1:40.16
+Pages:- Percentage: 3.12% Ratio: 1:32
+Arrival time(dec): 1960
+Departure time(dec): 2300
+turnaround time(dec): 340
+
+SNAPSHOT at 2500 VTU-----------------------------------+
+Ready queue: 7 3 8 9 
+Id of current job executing: 10
+Memory utilization: 18.75
+Disk utilization: 0.439453125
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+3    		 6
+14    		 7
+5    		 8
+4    		 9
+1    		 10
+2    		 11
+INPUT
+14    		 7
+------------------
+Job Identification number(DEC): 7
+nature of termination: normal
+input segment:
+0000000000010100
+0000000000001000
+output segment:
+0000000000000100
+clock value(HEX):157
+runtime(DECIMAL):343
+Execution time(DECIMAL):213
+input/output time(DECIMAL):45
+Page fault time(DEC) :70
+Segment fault time(DEC) :15
+Memory utilization:
+Words:- Percentage: 12.5% Ratio: 1:8
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.34% Ratio: 1:42.67
+Pages:- Percentage: 3.12% Ratio: 1:32
+Arrival time(dec): 2300
+Departure time(dec): 2840
+turnaround time(dec): 540
+
+PMT 
+Page number  Frame number
+0    		 18
+6    		 19
+28    		 20
+1    		 21
+INPUT
+28    		 20
+------------------
+Job Identification number(DEC): 9
+nature of termination: normal
+input segment:
+0000000000000101
+output segment:
+0000000000001111
+clock value(HEX):ff
+runtime(DECIMAL):255
+Execution time(DECIMAL):175
+input/output time(DECIMAL):30
+Page fault time(DEC) :40
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 8.59% Ratio: 1:11.64
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.27% Ratio: 1:78.77
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 2840
+Departure time(dec): 2920
+turnaround time(dec): 80
+
+SNAPSHOT at 3000 VTU-----------------------------------+
+Ready queue: 12 10 11 3 
+Id of current job executing: 8
+Memory utilization: 15.625
+Disk utilization: 0.732421875
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 3500 VTU-----------------------------------+
+Ready queue: 12 10 11 3 
+Id of current job executing: 8
+Memory utilization: 15.625
+Disk utilization: 0.732421875
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+4    		 12
+15    		 13
+1    		 14
+5    		 15
+2    		 16
+6    		 17
+OUTPUT
+15    		 13
+------------------
+Job Identification number(DEC): 8
+nature of termination: normal
+input segment:
+0000000000000011
+0000000000000011
+0000000011001101
+0000000000010000
+output segment:
+0000000011001101
+0000000000000011
+clock value(HEX):19c
+runtime(DECIMAL):412
+Execution time(DECIMAL):167
+input/output time(DECIMAL):90
+Page fault time(DEC) :130
+Segment fault time(DEC) :25
+Memory utilization:
+Words:- Percentage: 11.33% Ratio: 1:8.83
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.83% Ratio: 1:35.31
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 2920
+Departure time(dec): 3620
+turnaround time(dec): 700
+
+PMT 
+Page number  Frame number
+4    		 12
+6    		 13
+16    		 14
+5    		 15
+1    		 16
+2    		 17
+OUTPUT
+16    		 14
+------------------
+Job Identification number(DEC): 3
+nature of termination: normal
+input segment:
+0000000000000101
+0000000000100000
+0000000000001101
+0000001000110100
+0000000000000000
+0000001011111111
+output segment:
+0000001011111111
+0000000000000000
+clock value(HEX):27e
+runtime(DECIMAL):638
+Execution time(DECIMAL):263
+input/output time(DECIMAL):120
+Page fault time(DEC) :220
+Segment fault time(DEC) :35
+Memory utilization:
+Words:- Percentage: 12.89% Ratio: 1:7.76
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.93% Ratio: 1:34.13
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 3620
+Departure time(dec): 3720
+turnaround time(dec): 100
+
+PMT 
+Page number  Frame number
+29    		 24
+35    		 25
+4    		 26
+2    		 27
+3    		 28
+0    		 29
+INPUT
+35    		 25
+OUTPUT
+29    		 24
+------------------
+Job Identification number(DEC): 10
+nature of termination: normal
+input segment:
+0000000000000011
+0000000000000100
+output segment:
+0000000000000011
+0000000000000100
+0000000001010001
+clock value(HEX):145
+runtime(DECIMAL):325
+Execution time(DECIMAL):175
+input/output time(DECIMAL):75
+Page fault time(DEC) :60
+Segment fault time(DEC) :15
+Memory utilization:
+Words:- Percentage: 14.45% Ratio: 1:6.92
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.29% Ratio: 1:43.57
+Pages:- Percentage: 2.73% Ratio: 1:36.57
+Arrival time(dec): 3720
+Departure time(dec): 3800
+turnaround time(dec): 80
+
+PMT 
+Page number  Frame number
+0    		 6
+1    		 7
+8    		 8
+2    		 9
+INPUT
+8    		 8
+------------------
+Job Identification number(DEC): 12
+nature of termination: normal
+input segment:
+0000000000000011
+0000000000001011
+0000000000010000
+0000000000000011
+output segment:
+0000000000001010
+clock value(HEX):121
+runtime(DECIMAL):289
+Execution time(DECIMAL):149
+input/output time(DECIMAL):75
+Page fault time(DEC) :40
+Segment fault time(DEC) :25
+Memory utilization:
+Words:- Percentage: 11.33% Ratio: 1:8.83
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.22% Ratio: 1:81.92
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 3800
+Departure time(dec): 3900
+turnaround time(dec): 100
+
+SNAPSHOT at 4000 VTU-----------------------------------+
+Ready queue: 15 11 14 13 
+Id of current job executing: 16
+Memory utilization: 15.625
+Disk utilization: 0.634765625
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+0    		 24
+2    		 25
+32    		 26
+1    		 27
+INPUT
+32    		 26
+------------------
+Job Identification number(DEC): 15
+nature of termination: normal
+input segment:
+0000000000000010
+output segment:
+0000000000000011
+clock value(HEX):a5
+runtime(DECIMAL):165
+Execution time(DECIMAL):85
+input/output time(DECIMAL):30
+Page fault time(DEC) :40
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 12.89% Ratio: 1:7.76
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.22% Ratio: 1:81.92
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 3900
+Departure time(dec): 4340
+turnaround time(dec): 440
+
+SNAPSHOT at 4500 VTU-----------------------------------+
+Ready queue: 16 17 11 14 
+Id of current job executing: 13
+Memory utilization: 18.75
+Disk utilization: 0.341796875
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 5000 VTU-----------------------------------+
+Ready queue: 16 17 11 14 
+Id of current job executing: 13
+Memory utilization: 18.75
+Disk utilization: 0.341796875
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+0    		 0
+1    		 1
+3    		 2
+2    		 3
+INPUT
+3    		 2
+------------------
+Job Identification number(DEC): 16
+nature of termination: normal
+input segment:
+0000000000000101
+0000000000000011
+0000000000001111
+0000000000001010
+0000000000000001
+0000000000000001
+output segment:
+0000000000000110
+clock value(HEX):195
+runtime(DECIMAL):405
+Execution time(DECIMAL):225
+input/output time(DECIMAL):105
+Page fault time(DEC) :40
+Segment fault time(DEC) :35
+Memory utilization:
+Words:- Percentage: 10.16% Ratio: 1:9.85
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.32% Ratio: 1:75.85
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 4340
+Departure time(dec): 5240
+turnaround time(dec): 900
+
+PMT 
+Page number  Frame number
+0    		 0
+4    		 1
+3    		 2
+2    		 3
+1    		 4
+36    		 5
+INPUT
+3    		 2
+OUTPUT
+36    		 5
+------------------
+Job Identification number(DEC): 11
+nature of termination: normal
+input segment:
+0000000000001010
+output segment:
+0000010000000000
+clock value(HEX):1f7
+runtime(DECIMAL):503
+Execution time(DECIMAL):413
+input/output time(DECIMAL):30
+Page fault time(DEC) :50
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 7.03% Ratio: 1:14.22
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.27% Ratio: 1:78.77
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 5240
+Departure time(dec): 5300
+turnaround time(dec): 60
+
+SNAPSHOT at 5500 VTU-----------------------------------+
+Ready queue: 14 13 18 17 
+Id of current job executing: 19
+Memory utilization: 18.75
+Disk utilization: 0.68359375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+7    		 12
+8    		 13
+0    		 14
+6    		 15
+9    		 16
+10    		 17
+OUTPUT
+9    		 16
+------------------
+Job Identification number(DEC): 13
+nature of termination: normal
+input segment:
+0000000000000001
+0000000000001111
+0000000000100000
+output segment:
+0000000000000001
+0000000000000000
+0000000000100000
+clock value(HEX):1c9
+runtime(DECIMAL):457
+Execution time(DECIMAL):217
+input/output time(DECIMAL):90
+Page fault time(DEC) :130
+Segment fault time(DEC) :20
+Memory utilization:
+Words:- Percentage: 16.8% Ratio: 1:5.95
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 4.44% Ratio: 1:22.51
+Pages:- Percentage: 5.08% Ratio: 1:19.69
+Arrival time(dec): 5300
+Departure time(dec): 5860
+turnaround time(dec): 560
+
+SNAPSHOT at 6000 VTU-----------------------------------+
+Ready queue: 19 14 20 18 
+Id of current job executing: 17
+Memory utilization: 15.625
+Disk utilization: 0.68359375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 6500 VTU-----------------------------------+
+Ready queue: 19 14 20 18 
+Id of current job executing: 17
+Memory utilization: 15.625
+Disk utilization: 0.68359375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 7000 VTU-----------------------------------+
+Ready queue: 19 14 20 18 
+Id of current job executing: 17
+Memory utilization: 15.625
+Disk utilization: 0.68359375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+0    		 24
+6    		 25
+36    		 26
+2    		 27
+1    		 28
+INPUT
+36    		 26
+------------------
+Job Identification number(DEC): 20
+nature of termination: normal
+input segment:
+0000000000000100
+0000000000000011
+0000000000001011
+0000000000001010
+0000000000000001
+output segment:
+0000000000000110
+clock value(HEX):165
+runtime(DECIMAL):357
+Execution time(DECIMAL):187
+input/output time(DECIMAL):90
+Page fault time(DEC) :50
+Segment fault time(DEC) :30
+Memory utilization:
+Words:- Percentage: 10.55% Ratio: 1:9.48
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.27% Ratio: 1:78.77
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 5860
+Departure time(dec): 7080
+turnaround time(dec): 1220
+
+PMT 
+Page number  Frame number
+0    		 18
+23    		 19
+27    		 20
+2    		 21
+3    		 22
+1    		 23
+INPUT
+27    		 20
+------------------
+Job Identification number(DEC): 14
+nature of termination: normal
+input segment:
+0000000000001010
+output segment:
+0000000000000001
+0000000000000010
+0000000000000011
+0000000000000101
+0000000000001000
+0000000000001101
+0000000000010101
+0000000000100010
+0000000000110111
+0000000001011001
+clock value(HEX):334
+runtime(DECIMAL):820
+Execution time(DECIMAL):555
+input/output time(DECIMAL):165
+Page fault time(DEC) :90
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 7.03% Ratio: 1:14.22
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 1.66% Ratio: 1:60.24
+Pages:- Percentage: 2.34% Ratio: 1:42.67
+Arrival time(dec): 7080
+Departure time(dec): 7380
+turnaround time(dec): 300
+
+SNAPSHOT at 7500 VTU-----------------------------------+
+Ready queue: 18 17 19 22 
+Id of current job executing: 21
+Memory utilization: 18.75
+Disk utilization: 0.634765625
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+4    		 18
+23    		 19
+3    		 20
+1    		 21
+5    		 22
+6    		 23
+OUTPUT
+23    		 19
+------------------
+Job Identification number(DEC): 19
+nature of termination: normal
+input segment:
+0000000000000011
+0000000000010011
+0000000000000001
+0000000000001110
+output segment:
+0000000000010011
+0000000000000001
+clock value(HEX):1cc
+runtime(DECIMAL):460
+Execution time(DECIMAL):175
+input/output time(DECIMAL):90
+Page fault time(DEC) :170
+Segment fault time(DEC) :25
+Memory utilization:
+Words:- Percentage: 14.84% Ratio: 1:6.74
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.83% Ratio: 1:35.31
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 7380
+Departure time(dec): 7880
+turnaround time(dec): 500
+
+SNAPSHOT at 8000 VTU-----------------------------------+
+Ready queue: 21 18 17 23 
+Id of current job executing: 22
+Memory utilization: 18.75
+Disk utilization: 0.87890625
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 8500 VTU-----------------------------------+
+Ready queue: 21 18 17 23 
+Id of current job executing: 22
+Memory utilization: 18.75
+Disk utilization: 0.87890625
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+0    		 12
+22    		 13
+2    		 14
+1    		 15
+3    		 16
+17    		 17
+INPUT
+22    		 13
+OUTPUT
+17    		 17
+------------------
+Job Identification number(DEC): 18
+nature of termination: normal
+input segment:
+0000000000001010
+output segment:
+0000000000000010
+0000000000000100
+0000000000000110
+0000000000001000
+0000000000001010
+clock value(HEX):2de
+runtime(DECIMAL):734
+Execution time(DECIMAL):584
+input/output time(DECIMAL):90
+Page fault time(DEC) :50
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 14.06% Ratio: 1:7.11
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 1.76% Ratio: 1:56.89
+Pages:- Percentage: 2.34% Ratio: 1:42.67
+Arrival time(dec): 7880
+Departure time(dec): 8660
+turnaround time(dec): 780
+
+SNAPSHOT at 9000 VTU-----------------------------------+
+Ready queue: 22 21 24 17 
+Id of current job executing: 23
+Memory utilization: 15.625
+Disk utilization: 0.732421875
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+4    		 6
+5    		 7
+12    		 8
+0    		 9
+2    		 10
+3    		 11
+OUTPUT
+12    		 8
+------------------
+Job Identification number(DEC): 22
+nature of termination: normal
+input segment:
+0000000000010000
+0000000000000100
+output segment:
+0000000000010000
+0000000100000000
+0000000000000000
+clock value(HEX):1c5
+runtime(DECIMAL):453
+Execution time(DECIMAL):283
+input/output time(DECIMAL):75
+Page fault time(DEC) :80
+Segment fault time(DEC) :15
+Memory utilization:
+Words:- Percentage: 14.45% Ratio: 1:6.92
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.49% Ratio: 1:40.16
+Pages:- Percentage: 3.12% Ratio: 1:32
+Arrival time(dec): 8660
+Departure time(dec): 9340
+turnaround time(dec): 680
+
+PMT 
+Page number  Frame number
+7    		 0
+8    		 1
+0    		 2
+37    		 3
+9    		 4
+10    		 5
+OUTPUT
+37    		 3
+------------------
+Job Identification number(DEC): 21
+nature of termination: normal
+input segment:
+0000000000001010
+0000000000001111
+0000000000000000
+output segment:
+0000000000000000
+0000000000000000
+0000000000001111
+clock value(HEX):1d3
+runtime(DECIMAL):467
+Execution time(DECIMAL):217
+input/output time(DECIMAL):90
+Page fault time(DEC) :140
+Segment fault time(DEC) :20
+Memory utilization:
+Words:- Percentage: 12.11% Ratio: 1:8.26
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 4.49% Ratio: 1:22.26
+Pages:- Percentage: 5.08% Ratio: 1:19.69
+Arrival time(dec): 9340
+Departure time(dec): 9380
+turnaround time(dec): 40
+
+SNAPSHOT at 9500 VTU-----------------------------------+
+Ready queue: 17 23 25 26 
+Id of current job executing: 24
+Memory utilization: 18.75
+Disk utilization: 0.341796875
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 10000 VTU-----------------------------------+
+Ready queue: 17 23 25 26 
+Id of current job executing: 24
+Memory utilization: 18.75
+Disk utilization: 0.341796875
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 10500 VTU-----------------------------------+
+Ready queue: 17 23 25 26 
+Id of current job executing: 24
+Memory utilization: 18.75
+Disk utilization: 0.341796875
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 11000 VTU-----------------------------------+
+Ready queue: 17 23 25 26 
+Id of current job executing: 24
+Memory utilization: 18.75
+Disk utilization: 0.341796875
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 11500 VTU-----------------------------------+
+Ready queue: 17 23 25 26 
+Id of current job executing: 24
+Memory utilization: 18.75
+Disk utilization: 0.341796875
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 12000 VTU-----------------------------------+
+Ready queue: 17 23 25 26 
+Id of current job executing: 24
+Memory utilization: 18.75
+Disk utilization: 0.341796875
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 12500 VTU-----------------------------------+
+Ready queue: 17 23 25 26 
+Id of current job executing: 24
+Memory utilization: 18.75
+Disk utilization: 0.341796875
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+7    		 6
+4    		 7
+6    		 8
+0    		 9
+2    		 10
+5    		 11
+OUTPUT
+4    		 7
+------------------
+Job Identification number(DEC): 17
+nature of termination: normal
+input segment:
+0000000000010000
+0000000000000001
+0000000000000001
+0000000000000010
+0000000000011110
+output segment:
+0000000000000001
+0000000000000001
+0000000000000010
+0000000000010000
+0000000000011110
+clock value(HEX):53d
+runtime(DECIMAL):1341
+Execution time(DECIMAL):681
+input/output time(DECIMAL):150
+Page fault time(DEC) :480
+Segment fault time(DEC) :30
+Memory utilization:
+Words:- Percentage: 17.58% Ratio: 1:5.69
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 4.74% Ratio: 1:21.11
+Pages:- Percentage: 5.08% Ratio: 1:19.69
+Arrival time(dec): 9380
+Departure time(dec): 12640
+turnaround time(dec): 3260
+
+PMT 
+Page number  Frame number
+4    		 12
+6    		 13
+20    		 14
+1    		 15
+2    		 16
+5    		 17
+OUTPUT
+20    		 14
+------------------
+Job Identification number(DEC): 23
+nature of termination: normal
+input segment:
+0000000000000111
+0000000100100011
+0000000000001011
+0000001000110100
+0000010101100111
+0000000000001111
+0000000011100001
+0000000011000000
+output segment:
+0000010101100111
+0000000000001011
+clock value(HEX):33a
+runtime(DECIMAL):826
+Execution time(DECIMAL):351
+input/output time(DECIMAL):150
+Page fault time(DEC) :280
+Segment fault time(DEC) :45
+Memory utilization:
+Words:- Percentage: 16.8% Ratio: 1:5.95
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.64% Ratio: 1:37.93
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 12640
+Departure time(dec): 12680
+turnaround time(dec): 40
+
+SNAPSHOT at 13000 VTU-----------------------------------+
+Ready queue: 26 24 27 28 
+Id of current job executing: 25
+Memory utilization: 18.75
+Disk utilization: 0.68359375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 13500 VTU-----------------------------------+
+Ready queue: 26 24 27 28 
+Id of current job executing: 25
+Memory utilization: 18.75
+Disk utilization: 0.68359375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+0    		 18
+6    		 19
+33    		 20
+1    		 21
+INPUT
+33    		 20
+------------------
+Job Identification number(DEC): 24
+nature of termination: normal
+input segment:
+0000000000011111
+output segment:
+0000000111110000
+clock value(HEX):40b
+runtime(DECIMAL):1035
+Execution time(DECIMAL):955
+input/output time(DECIMAL):30
+Page fault time(DEC) :40
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 10.55% Ratio: 1:9.48
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.22% Ratio: 1:81.92
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 12680
+Departure time(dec): 13560
+turnaround time(dec): 880
+
+SNAPSHOT at 14000 VTU-----------------------------------+
+Ready queue: 25 26 29 27 
+Id of current job executing: 28
+Memory utilization: 18.75
+Disk utilization: 0.634765625
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+1    		 24
+0    		 25
+5    		 26
+4    		 27
+6    		 28
+8    		 29
+------------------
+Job Identification number(DEC): 25
+nature of termination: normal
+input segment:
+0000000000000110
+0000000000000011
+output segment:
+0000000000010100
+clock value(HEX):365
+runtime(DECIMAL):869
+Execution time(DECIMAL):549
+input/output time(DECIMAL):45
+Page fault time(DEC) :260
+Segment fault time(DEC) :15
+Memory utilization:
+Words:- Percentage: 14.06% Ratio: 1:7.11
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 4.1% Ratio: 1:24.38
+Pages:- Percentage: 4.69% Ratio: 1:21.33
+Arrival time(dec): 13560
+Departure time(dec): 14340
+turnaround time(dec): 780
+
+SNAPSHOT at 14500 VTU-----------------------------------+
+Ready queue: 28 30 26 29 
+Id of current job executing: 27
+Memory utilization: 18.75
+Disk utilization: 0.48828125
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+0    		 6
+17    		 7
+2    		 8
+3    		 9
+1    		 10
+12    		 11
+INPUT
+17    		 7
+OUTPUT
+12    		 11
+------------------
+Job Identification number(DEC): 27
+nature of termination: normal
+input segment:
+0000000000000101
+output segment:
+0000000000000001
+0000000000000010
+0000000000000011
+0000000000000101
+0000000000001000
+clock value(HEX):1c7
+runtime(DECIMAL):455
+Execution time(DECIMAL):305
+input/output time(DECIMAL):90
+Page fault time(DEC) :50
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 14.84% Ratio: 1:6.74
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 1.81% Ratio: 1:55.35
+Pages:- Percentage: 2.34% Ratio: 1:42.67
+Arrival time(dec): 14340
+Departure time(dec): 14620
+turnaround time(dec): 280
+
+SNAPSHOT at 15000 VTU-----------------------------------+
+Ready queue: 31 28 30 26 
+Id of current job executing: 29
+Memory utilization: 15.625
+Disk utilization: 0.68359375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+4    		 12
+18    		 13
+3    		 14
+1    		 15
+5    		 16
+6    		 17
+OUTPUT
+18    		 13
+------------------
+Job Identification number(DEC): 28
+nature of termination: normal
+input segment:
+0000000000000011
+0000000000000001
+0000000000000010
+0000000000000101
+output segment:
+0000000000000101
+0000000000000001
+clock value(HEX):1c0
+runtime(DECIMAL):448
+Execution time(DECIMAL):163
+input/output time(DECIMAL):90
+Page fault time(DEC) :170
+Segment fault time(DEC) :25
+Memory utilization:
+Words:- Percentage: 14.84% Ratio: 1:6.74
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.83% Ratio: 1:35.31
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 14620
+Departure time(dec): 15260
+turnaround time(dec): 640
+
+SNAPSHOT at 15500 VTU-----------------------------------+
+Ready queue: 29 31 32 30 
+Id of current job executing: 26
+Memory utilization: 18.75
+Disk utilization: 0.439453125
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+27    		 18
+10    		 19
+7    		 20
+8    		 21
+9    		 22
+0    		 23
+OUTPUT
+27    		 18
+------------------
+Job Identification number(DEC): 29
+nature of termination: normal
+input segment:
+0000000000001010
+0000000000001011
+0000000000001011
+output segment:
+0000000000001010
+0000000000000000
+0000000000001011
+clock value(HEX):1e7
+runtime(DECIMAL):487
+Execution time(DECIMAL):217
+input/output time(DECIMAL):90
+Page fault time(DEC) :160
+Segment fault time(DEC) :20
+Memory utilization:
+Words:- Percentage: 10.55% Ratio: 1:9.48
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 4.44% Ratio: 1:22.51
+Pages:- Percentage: 5.08% Ratio: 1:19.69
+Arrival time(dec): 15260
+Departure time(dec): 15940
+turnaround time(dec): 680
+
+SNAPSHOT at 16000 VTU-----------------------------------+
+Ready queue: 26 33 31 32 
+Id of current job executing: 30
+Memory utilization: 18.75
+Disk utilization: 0.634765625
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+3    		 6
+2    		 7
+6    		 8
+5    		 9
+4    		 10
+1    		 11
+OUTPUT
+4    		 10
+------------------
+Job Identification number(DEC): 32
+nature of termination: normal
+input segment:
+0000000000000111
+0000000000010011
+0000000000100000
+output segment:
+0000000000000111
+0000000000010011
+0000000000100000
+clock value(HEX):115
+runtime(DECIMAL):277
+Execution time(DECIMAL):97
+input/output time(DECIMAL):90
+Page fault time(DEC) :70
+Segment fault time(DEC) :20
+Memory utilization:
+Words:- Percentage: 17.19% Ratio: 1:5.82
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 3.08% Ratio: 1:32.51
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 15940
+Departure time(dec): 16300
+turnaround time(dec): 360
+
+SNAPSHOT at 16500 VTU-----------------------------------+
+Ready queue: 30 26 33 31 
+Id of current job executing: 34
+Memory utilization: 15.625
+Disk utilization: 0.5859375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+13    		 12
+19    		 13
+4    		 14
+0    		 15
+1    		 16
+2    		 17
+INPUT
+19    		 13
+OUTPUT
+13    		 12
+------------------
+Job Identification number(DEC): 33
+nature of termination: normal
+input segment:
+0000000000011111
+output segment:
+0000000000011111
+0000000000001010
+clock value(HEX):ec
+runtime(DECIMAL):236
+Execution time(DECIMAL):121
+input/output time(DECIMAL):45
+Page fault time(DEC) :60
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 14.06% Ratio: 1:7.11
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.1% Ratio: 1:47.63
+Pages:- Percentage: 2.73% Ratio: 1:36.57
+Arrival time(dec): 16300
+Departure time(dec): 16980
+turnaround time(dec): 680
+
+SNAPSHOT at 17000 VTU-----------------------------------+
+Ready queue: 31 34 30 26 35 
+Id of current job executing: 35
+Memory utilization: 15.625
+Disk utilization: 0.68359375
+Current degree of multiprogramming: 5
+-------------------------------------------------------+
+SNAPSHOT at 17500 VTU-----------------------------------+
+Ready queue: 34 30 26 35 
+Id of current job executing: 31
+Memory utilization: 15.625
+Disk utilization: 0.68359375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+7    		 0
+46    		 1
+6    		 2
+0    		 3
+2    		 4
+5    		 5
+OUTPUT
+46    		 1
+------------------
+Job Identification number(DEC): 26
+nature of termination: normal
+input segment:
+0000000000010100
+0000000000000000
+0000000000000001
+0000000000000010
+0000111000011110
+output segment:
+0000000000000000
+0000000000000001
+0000000000000010
+0000000000010100
+0000111000011110
+clock value(HEX):551
+runtime(DECIMAL):1361
+Execution time(DECIMAL):681
+input/output time(DECIMAL):150
+Page fault time(DEC) :500
+Segment fault time(DEC) :30
+Memory utilization:
+Words:- Percentage: 11.33% Ratio: 1:8.83
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 4.74% Ratio: 1:21.11
+Pages:- Percentage: 5.08% Ratio: 1:19.69
+Arrival time(dec): 16980
+Departure time(dec): 17780
+turnaround time(dec): 800
+
+SNAPSHOT at 18000 VTU-----------------------------------+
+Ready queue: 31 34 30 36 
+Id of current job executing: 35
+Memory utilization: 18.75
+Disk utilization: 0.439453125
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+0    		 24
+2    		 25
+29    		 26
+1    		 27
+INPUT
+29    		 26
+------------------
+Job Identification number(DEC): 35
+nature of termination: normal
+input segment:
+0000000000000100
+1111111111111111
+0000000000000000
+0000000000001110
+0000000000000001
+output segment:
+0000000000000011
+clock value(HEX):15b
+runtime(DECIMAL):347
+Execution time(DECIMAL):187
+input/output time(DECIMAL):90
+Page fault time(DEC) :40
+Segment fault time(DEC) :30
+Memory utilization:
+Words:- Percentage: 14.45% Ratio: 1:6.92
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.27% Ratio: 1:78.77
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 17780
+Departure time(dec): 18220
+turnaround time(dec): 440
+
+SNAPSHOT at 18500 VTU-----------------------------------+
+Ready queue: 37 31 34 30 
+Id of current job executing: 36
+Memory utilization: 18.75
+Disk utilization: 0.634765625
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+30    		 0
+2    		 1
+5    		 2
+4    		 3
+3    		 4
+0    		 5
+INPUT
+5    		 2
+OUTPUT
+30    		 0
+------------------
+Job Identification number(DEC): 36
+nature of termination: normal
+input segment:
+0000000000000011
+0000000000000010
+output segment:
+0000000000000011
+0000000000000010
+0000000000001001
+clock value(HEX):115
+runtime(DECIMAL):277
+Execution time(DECIMAL):127
+input/output time(DECIMAL):75
+Page fault time(DEC) :60
+Segment fault time(DEC) :15
+Memory utilization:
+Words:- Percentage: 14.06% Ratio: 1:7.11
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.29% Ratio: 1:43.57
+Pages:- Percentage: 2.73% Ratio: 1:36.57
+Arrival time(dec): 18220
+Departure time(dec): 18920
+turnaround time(dec): 700
+
+SNAPSHOT at 19000 VTU-----------------------------------+
+Ready queue: 38 37 31 34 
+Id of current job executing: 30
+Memory utilization: 18.75
+Disk utilization: 0.537109375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 19500 VTU-----------------------------------+
+Ready queue: 38 37 31 34 
+Id of current job executing: 30
+Memory utilization: 18.75
+Disk utilization: 0.537109375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+1    		 24
+0    		 25
+40    		 26
+3    		 27
+2    		 28
+4    		 29
+OUTPUT
+40    		 26
+------------------
+Job Identification number(DEC): 30
+nature of termination: normal
+input segment:
+0000000000000110
+output segment:
+0000000001000000
+0000000000100000
+0000000000010000
+0000000000001000
+0000000000000100
+0000000000000010
+clock value(HEX):438
+runtime(DECIMAL):1080
+Execution time(DECIMAL):875
+input/output time(DECIMAL):105
+Page fault time(DEC) :90
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 12.11% Ratio: 1:8.26
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.25% Ratio: 1:44.52
+Pages:- Percentage: 2.73% Ratio: 1:36.57
+Arrival time(dec): 18920
+Departure time(dec): 19620
+turnaround time(dec): 700
+
+PMT 
+Page number  Frame number
+0    		 0
+3    		 1
+2    		 2
+1    		 3
+47    		 4
+48    		 5
+INPUT
+3    		 1
+OUTPUT
+47    		 4
+------------------
+Job Identification number(DEC): 31
+nature of termination: normal
+input segment:
+0000000000001101
+output segment:
+0000000000000001
+0000000000000000
+0000000000000001
+0000000000000001
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+clock value(HEX):4de
+runtime(DECIMAL):1246
+Execution time(DECIMAL):931
+input/output time(DECIMAL):255
+Page fault time(DEC) :50
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 7.03% Ratio: 1:14.22
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.27% Ratio: 1:78.77
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 19620
+Departure time(dec): 19800
+turnaround time(dec): 180
+
+SNAPSHOT at 20000 VTU-----------------------------------+
+Ready queue: 34 39 38 37 
+Id of current job executing: 40
+Memory utilization: 15.625
+Disk utilization: 0.68359375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 20500 VTU-----------------------------------+
+Ready queue: 34 39 38 37 
+Id of current job executing: 40
+Memory utilization: 15.625
+Disk utilization: 0.68359375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 21000 VTU-----------------------------------+
+Ready queue: 34 39 38 37 
+Id of current job executing: 40
+Memory utilization: 15.625
+Disk utilization: 0.68359375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+15    		 12
+10    		 13
+7    		 14
+8    		 15
+9    		 16
+0    		 17
+OUTPUT
+15    		 12
+------------------
+Job Identification number(DEC): 38
+nature of termination: normal
+input segment:
+0000000000001010
+0000000000001111
+1111111111111110
+output segment:
+1111111111111110
+0000000000000000
+0000000000001111
+clock value(HEX):1e7
+runtime(DECIMAL):487
+Execution time(DECIMAL):217
+input/output time(DECIMAL):90
+Page fault time(DEC) :160
+Segment fault time(DEC) :20
+Memory utilization:
+Words:- Percentage: 15.23% Ratio: 1:6.56
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 4.54% Ratio: 1:22.02
+Pages:- Percentage: 5.08% Ratio: 1:19.69
+Arrival time(dec): 19800
+Departure time(dec): 21280
+turnaround time(dec): 1480
+
+PMT 
+Page number  Frame number
+3    		 6
+0    		 7
+5    		 8
+6    		 9
+1    		 10
+4    		 11
+OUTPUT
+6    		 9
+------------------
+Job Identification number(DEC): 37
+nature of termination: normal
+input segment:
+0000000101110011
+output segment:
+1111111111111111
+clock value(HEX):1e7
+runtime(DECIMAL):487
+Execution time(DECIMAL):257
+input/output time(DECIMAL):30
+Page fault time(DEC) :190
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 16.02% Ratio: 1:6.24
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.88% Ratio: 1:34.71
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 21280
+Departure time(dec): 21320
+turnaround time(dec): 40
+
+PMT 
+Page number  Frame number
+0    		 18
+4    		 19
+24    		 20
+2    		 21
+1    		 22
+21    		 23
+INPUT
+24    		 20
+------------------
+Job Identification number(DEC): 34
+nature of termination: normal
+input segment:
+0000000000010011
+output segment:
+0000000000000001
+0000000000000001
+0000000000000000
+0000000000000000
+0000000000000001
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+clock value(HEX):4e8
+runtime(DECIMAL):1256
+Execution time(DECIMAL):931
+input/output time(DECIMAL):255
+Page fault time(DEC) :60
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 11.72% Ratio: 1:8.53
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.37% Ratio: 1:73.14
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 21320
+Departure time(dec): 21480
+turnaround time(dec): 160
+
+SNAPSHOT at 21500 VTU-----------------------------------+
+Ready queue: 39 41 42 40 43 
+Id of current job executing: 43
+Memory utilization: 18.75
+Disk utilization: 0.732421875
+Current degree of multiprogramming: 5
+-------------------------------------------------------+
+SNAPSHOT at 22000 VTU-----------------------------------+
+Ready queue: 41 42 40 43 
+Id of current job executing: 39
+Memory utilization: 18.75
+Disk utilization: 0.732421875
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+0    		 24
+6    		 25
+44    		 26
+1    		 27
+INPUT
+44    		 26
+------------------
+Job Identification number(DEC): 40
+nature of termination: normal
+input segment:
+0000000000001110
+output segment:
+0000000001101001
+clock value(HEX):20d
+runtime(DECIMAL):525
+Execution time(DECIMAL):445
+input/output time(DECIMAL):30
+Page fault time(DEC) :40
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 8.59% Ratio: 1:11.64
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.27% Ratio: 1:78.77
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 21480
+Departure time(dec): 22180
+turnaround time(dec): 700
+
+SNAPSHOT at 22500 VTU-----------------------------------+
+Ready queue: 39 41 42 44 
+Id of current job executing: 43
+Memory utilization: 18.75
+Disk utilization: 0.537109375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 23000 VTU-----------------------------------+
+Ready queue: 39 41 42 44 
+Id of current job executing: 43
+Memory utilization: 18.75
+Disk utilization: 0.537109375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+3    		 12
+2    		 13
+18    		 14
+5    		 15
+4    		 16
+1    		 17
+INPUT
+18    		 14
+------------------
+Job Identification number(DEC): 43
+nature of termination: normal
+input segment:
+0000000000001010
+0000000000001000
+output segment:
+0000000000000010
+clock value(HEX):157
+runtime(DECIMAL):343
+Execution time(DECIMAL):213
+input/output time(DECIMAL):45
+Page fault time(DEC) :70
+Segment fault time(DEC) :15
+Memory utilization:
+Words:- Percentage: 16.02% Ratio: 1:6.24
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.39% Ratio: 1:41.8
+Pages:- Percentage: 3.12% Ratio: 1:32
+Arrival time(dec): 22180
+Departure time(dec): 23020
+turnaround time(dec): 840
+
+PMT 
+Page number  Frame number
+0    		 6
+2    		 7
+10    		 8
+3    		 9
+1    		 10
+5    		 11
+INPUT
+10    		 8
+OUTPUT
+5    		 11
+------------------
+Job Identification number(DEC): 42
+nature of termination: normal
+input segment:
+0000000000000100
+output segment:
+0000000000000001
+0000000000000010
+0000000000000011
+0000000000000101
+clock value(HEX):186
+runtime(DECIMAL):390
+Execution time(DECIMAL):255
+input/output time(DECIMAL):75
+Page fault time(DEC) :50
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 14.45% Ratio: 1:6.92
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 1.9% Ratio: 1:52.51
+Pages:- Percentage: 2.34% Ratio: 1:42.67
+Arrival time(dec): 23020
+Departure time(dec): 23100
+turnaround time(dec): 80
+
+PMT 
+Page number  Frame number
+0    		 0
+1    		 1
+4    		 2
+2    		 3
+3    		 4
+45    		 5
+INPUT
+4    		 2
+OUTPUT
+45    		 5
+------------------
+Job Identification number(DEC): 41
+nature of termination: normal
+input segment:
+0000000000000101
+output segment:
+0000000000000001
+0000000000000010
+0000000000000011
+0000000000000101
+0000000000001000
+clock value(HEX):1c7
+runtime(DECIMAL):455
+Execution time(DECIMAL):305
+input/output time(DECIMAL):90
+Page fault time(DEC) :50
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 10.55% Ratio: 1:9.48
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 1.51% Ratio: 1:66.06
+Pages:- Percentage: 2.34% Ratio: 1:42.67
+Arrival time(dec): 23100
+Departure time(dec): 23200
+turnaround time(dec): 100
+
+SNAPSHOT at 23500 VTU-----------------------------------+
+Ready queue: 46 44 45 39 
+Id of current job executing: 47
+Memory utilization: 18.75
+Disk utilization: 0.78125
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+7    		 18
+8    		 19
+9    		 20
+5    		 21
+4    		 22
+6    		 23
+------------------
+Job Identification number(DEC): 39
+nature of termination: normal
+input segment:
+0000000000000100
+0000000000000011
+output segment:
+0000000000000100
+clock value(HEX):2bb
+runtime(DECIMAL):699
+Execution time(DECIMAL):409
+input/output time(DECIMAL):45
+Page fault time(DEC) :230
+Segment fault time(DEC) :15
+Memory utilization:
+Words:- Percentage: 14.45% Ratio: 1:6.92
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 4.05% Ratio: 1:24.67
+Pages:- Percentage: 4.69% Ratio: 1:21.33
+Arrival time(dec): 23200
+Departure time(dec): 23700
+turnaround time(dec): 500
+
+PMT 
+Page number  Frame number
+0    		 24
+6    		 25
+31    		 26
+1    		 27
+28    		 28
+INPUT
+31    		 26
+OUTPUT
+28    		 28
+------------------
+Job Identification number(DEC): 45
+nature of termination: normal
+input segment:
+0000000000000011
+0000000000001010
+0000000000000010
+0000000000110000
+output segment:
+0000000000111100
+clock value(HEX):103
+runtime(DECIMAL):259
+Execution time(DECIMAL):119
+input/output time(DECIMAL):75
+Page fault time(DEC) :40
+Segment fault time(DEC) :25
+Memory utilization:
+Words:- Percentage: 8.59% Ratio: 1:11.64
+Pages:- Percentage: 12.5% Ratio: 1:8
+Disk utilization:
+Words:- Percentage: 1.03% Ratio: 1:97.52
+Pages:- Percentage: 1.56% Ratio: 1:64
+Arrival time(dec): 23700
+Departure time(dec): 23900
+turnaround time(dec): 200
+
+SNAPSHOT at 24000 VTU-----------------------------------+
+Ready queue: 48 47 46 44 
+Id of current job executing: 49
+Memory utilization: 18.75
+Disk utilization: 0.48828125
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 24500 VTU-----------------------------------+
+Ready queue: 48 47 46 44 
+Id of current job executing: 49
+Memory utilization: 18.75
+Disk utilization: 0.48828125
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+0    		 0
+1    		 1
+3    		 2
+2    		 3
+INPUT
+3    		 2
+------------------
+Job Identification number(DEC): 46
+nature of termination: normal
+input segment:
+0000000000000111
+0000000000000011
+0000000000001011
+0000000000001010
+0000000000000001
+0000000000000001
+0000000000000000
+0000000000001110
+output segment:
+0000000000000101
+clock value(HEX):209
+runtime(DECIMAL):521
+Execution time(DECIMAL):301
+input/output time(DECIMAL):135
+Page fault time(DEC) :40
+Segment fault time(DEC) :45
+Memory utilization:
+Words:- Percentage: 10.94% Ratio: 1:9.14
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.03% Ratio: 1:97.52
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 23900
+Departure time(dec): 24880
+turnaround time(dec): 980
+
+PMT 
+Page number  Frame number
+0    		 6
+2    		 7
+9    		 8
+1    		 9
+3    		 10
+4    		 11
+INPUT
+9    		 8
+OUTPUT
+4    		 11
+------------------
+Job Identification number(DEC): 47
+nature of termination: normal
+input segment:
+0000000000000100
+output segment:
+0000000000000010
+0000000000000100
+clock value(HEX):173
+runtime(DECIMAL):371
+Execution time(DECIMAL):266
+input/output time(DECIMAL):45
+Page fault time(DEC) :50
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 14.84% Ratio: 1:6.74
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 1.56% Ratio: 1:64
+Pages:- Percentage: 2.34% Ratio: 1:42.67
+Arrival time(dec): 24880
+Departure time(dec): 24980
+turnaround time(dec): 100
+
+SNAPSHOT at 25000 VTU-----------------------------------+
+Ready queue: 50 44 49 48 51 
+Id of current job executing: 51
+Memory utilization: 15.625
+Disk utilization: 0.5859375
+Current degree of multiprogramming: 5
+-------------------------------------------------------+
+SNAPSHOT at 25500 VTU-----------------------------------+
+Ready queue: 44 49 48 51 
+Id of current job executing: 50
+Memory utilization: 15.625
+Disk utilization: 0.5859375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+0    		 0
+4    		 1
+3    		 2
+2    		 3
+1    		 4
+37    		 5
+INPUT
+3    		 2
+OUTPUT
+37    		 5
+------------------
+Job Identification number(DEC): 51
+nature of termination: normal
+input segment:
+0000000000000100
+output segment:
+0000000000000100
+0000000001100100
+clock value(HEX):b2
+runtime(DECIMAL):178
+Execution time(DECIMAL):73
+input/output time(DECIMAL):45
+Page fault time(DEC) :50
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 7.81% Ratio: 1:12.8
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.37% Ratio: 1:73.14
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 24980
+Departure time(dec): 25600
+turnaround time(dec): 620
+
+PMT 
+Page number  Frame number
+0    		 18
+1    		 19
+23    		 20
+4    		 21
+2    		 22
+3    		 23
+OUTPUT
+23    		 20
+------------------
+Job Identification number(DEC): 49
+nature of termination: normal
+input segment:
+0000000000000100
+0000000000000110
+output segment:
+0000000000000100
+0000000000000110
+0001000000000000
+clock value(HEX):189
+runtime(DECIMAL):393
+Execution time(DECIMAL):223
+input/output time(DECIMAL):75
+Page fault time(DEC) :80
+Segment fault time(DEC) :15
+Memory utilization:
+Words:- Percentage: 12.89% Ratio: 1:7.76
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.25% Ratio: 1:44.52
+Pages:- Percentage: 2.73% Ratio: 1:36.57
+Arrival time(dec): 25600
+Departure time(dec): 25680
+turnaround time(dec): 80
+
+PMT 
+Page number  Frame number
+4    		 18
+6    		 19
+19    		 20
+5    		 21
+1    		 22
+2    		 23
+OUTPUT
+19    		 20
+------------------
+Job Identification number(DEC): 44
+nature of termination: normal
+input segment:
+0000000000000101
+0000000100010011
+0000101111001101
+0000000000110100
+0000000101100000
+0000001011111111
+output segment:
+0000101111001101
+0000000000110100
+clock value(HEX):27e
+runtime(DECIMAL):638
+Execution time(DECIMAL):263
+input/output time(DECIMAL):120
+Page fault time(DEC) :220
+Segment fault time(DEC) :35
+Memory utilization:
+Words:- Percentage: 14.45% Ratio: 1:6.92
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.98% Ratio: 1:33.57
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 25680
+Departure time(dec): 25880
+turnaround time(dec): 200
+
+PMT 
+Page number  Frame number
+7    		 12
+8    		 13
+0    		 14
+6    		 15
+9    		 16
+10    		 17
+OUTPUT
+10    		 17
+------------------
+Job Identification number(DEC): 48
+nature of termination: normal
+input segment:
+0000000000001110
+1111111111111010
+0000000000010011
+output segment:
+1111111111111010
+0000000000000000
+0000000000010011
+clock value(HEX):1c9
+runtime(DECIMAL):457
+Execution time(DECIMAL):217
+input/output time(DECIMAL):90
+Page fault time(DEC) :130
+Segment fault time(DEC) :20
+Memory utilization:
+Words:- Percentage: 17.19% Ratio: 1:5.82
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 4.49% Ratio: 1:22.26
+Pages:- Percentage: 5.08% Ratio: 1:19.69
+Arrival time(dec): 25880
+Departure time(dec): 25940
+turnaround time(dec): 60
+
+PMT 
+Page number  Frame number
+30    		 24
+4    		 25
+36    		 26
+0    		 27
+1    		 28
+2    		 29
+INPUT
+36    		 26
+OUTPUT
+30    		 24
+------------------
+Job Identification number(DEC): 50
+nature of termination: normal
+input segment:
+0000000000001101
+output segment:
+0000000000001101
+0000000000001010
+clock value(HEX):ec
+runtime(DECIMAL):236
+Execution time(DECIMAL):121
+input/output time(DECIMAL):45
+Page fault time(DEC) :60
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 14.84% Ratio: 1:6.74
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.2% Ratio: 1:45.51
+Pages:- Percentage: 2.73% Ratio: 1:36.57
+Arrival time(dec): 25940
+Departure time(dec): 26000
+turnaround time(dec): 60
+
+SNAPSHOT at 26020 VTU-----------------------------------+
+Ready queue: 54 53 55 52 56 
+Id of current job executing: 56
+Memory utilization: 18.75
+Disk utilization: 0.439453125
+Current degree of multiprogramming: 5
+-------------------------------------------------------+
+SNAPSHOT at 26520 VTU-----------------------------------+
+Ready queue: 53 55 52 56 
+Id of current job executing: 54
+Memory utilization: 18.75
+Disk utilization: 0.439453125
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 27020 VTU-----------------------------------+
+Ready queue: 53 55 52 56 
+Id of current job executing: 54
+Memory utilization: 18.75
+Disk utilization: 0.439453125
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+5    		 12
+9    		 13
+16    		 14
+0    		 15
+3    		 16
+4    		 17
+INPUT
+16    		 14
+OUTPUT
+9    		 13
+------------------
+Job Identification number(DEC): 53
+nature of termination: normal
+input segment:
+0000000000010011
+0000000000000010
+output segment:
+0000000000010011
+0000000001001100
+0000000000000000
+clock value(HEX):147
+runtime(DECIMAL):327
+Execution time(DECIMAL):167
+input/output time(DECIMAL):75
+Page fault time(DEC) :70
+Segment fault time(DEC) :15
+Memory utilization:
+Words:- Percentage: 17.19% Ratio: 1:5.82
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.59% Ratio: 1:38.64
+Pages:- Percentage: 3.12% Ratio: 1:32
+Arrival time(dec): 26000
+Departure time(dec): 27060
+turnaround time(dec): 1060
+
+SNAPSHOT at 27520 VTU-----------------------------------+
+Ready queue: 54 57 55 52 
+Id of current job executing: 56
+Memory utilization: 18.75
+Disk utilization: 0.537109375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+3    		 0
+31    		 1
+4    		 2
+6    		 3
+1    		 4
+0    		 5
+OUTPUT
+31    		 1
+------------------
+Job Identification number(DEC): 56
+nature of termination: normal
+input segment:
+0000000000000111
+output segment:
+0000000000000000
+clock value(HEX):117
+runtime(DECIMAL):279
+Execution time(DECIMAL):129
+input/output time(DECIMAL):30
+Page fault time(DEC) :110
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 14.45% Ratio: 1:6.92
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 3.08% Ratio: 1:32.51
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 27060
+Departure time(dec): 27540
+turnaround time(dec): 480
+
+PMT 
+Page number  Frame number
+0    		 18
+21    		 19
+2    		 20
+1    		 21
+INPUT
+21    		 19
+------------------
+Job Identification number(DEC): 54
+nature of termination: normal
+input segment:
+0000000000000110
+0000000000010011
+0000000000011011
+0000000000001010
+0000000000000001
+0000000000001110
+0000000000010000
+output segment:
+0000000000001110
+clock value(HEX):1cf
+runtime(DECIMAL):463
+Execution time(DECIMAL):263
+input/output time(DECIMAL):120
+Page fault time(DEC) :40
+Segment fault time(DEC) :40
+Memory utilization:
+Words:- Percentage: 13.28% Ratio: 1:7.53
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.37% Ratio: 1:73.14
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 27540
+Departure time(dec): 27580
+turnaround time(dec): 40
+
+SNAPSHOT at 28020 VTU-----------------------------------+
+Ready queue: 52 58 59 57 
+Id of current job executing: 55
+Memory utilization: 15.625
+Disk utilization: 0.5859375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+3    		 24
+22    		 25
+5    		 26
+6    		 27
+1    		 28
+4    		 29
+OUTPUT
+22    		 25
+------------------
+Job Identification number(DEC): 55
+nature of termination: normal
+input segment:
+0000000000001011
+output segment:
+0000000000000000
+clock value(HEX):17f
+runtime(DECIMAL):383
+Execution time(DECIMAL):193
+input/output time(DECIMAL):30
+Page fault time(DEC) :150
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 13.67% Ratio: 1:7.31
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.93% Ratio: 1:34.13
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 27580
+Departure time(dec): 28240
+turnaround time(dec): 660
+
+SNAPSHOT at 28520 VTU-----------------------------------+
+Ready queue: 60 52 58 59 
+Id of current job executing: 57
+Memory utilization: 18.75
+Disk utilization: 0.78125
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 29020 VTU-----------------------------------+
+Ready queue: 60 52 58 59 
+Id of current job executing: 57
+Memory utilization: 18.75
+Disk utilization: 0.78125
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+3    		 24
+1    		 25
+37    		 26
+5    		 27
+4    		 28
+2    		 29
+INPUT
+37    		 26
+------------------
+Job Identification number(DEC): 60
+nature of termination: normal
+input segment:
+0000000000000100
+0000000000001000
+output segment:
+0000000000000100
+clock value(HEX):107
+runtime(DECIMAL):263
+Execution time(DECIMAL):133
+input/output time(DECIMAL):45
+Page fault time(DEC) :70
+Segment fault time(DEC) :15
+Memory utilization:
+Words:- Percentage: 13.67% Ratio: 1:7.31
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.34% Ratio: 1:42.67
+Pages:- Percentage: 3.12% Ratio: 1:32
+Arrival time(dec): 28240
+Departure time(dec): 29360
+turnaround time(dec): 1120
+
+SNAPSHOT at 29520 VTU-----------------------------------+
+Ready queue: 57 61 52 58 
+Id of current job executing: 59
+Memory utilization: 12.5
+Disk utilization: 0.48828125
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+1    		 12
+2    		 13
+24    		 14
+5    		 15
+3    		 16
+4    		 17
+INPUT
+24    		 14
+------------------
+Job Identification number(DEC): 58
+nature of termination: normal
+input segment:
+0000000000001101
+output segment:
+0000000000000001
+clock value(HEX):197
+runtime(DECIMAL):407
+Execution time(DECIMAL):287
+input/output time(DECIMAL):30
+Page fault time(DEC) :80
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 14.06% Ratio: 1:7.11
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.29% Ratio: 1:43.57
+Pages:- Percentage: 3.12% Ratio: 1:32
+Arrival time(dec): 29360
+Departure time(dec): 29620
+turnaround time(dec): 260
+
+PMT 
+Page number  Frame number
+0    		 18
+4    		 19
+29    		 20
+2    		 21
+1    		 22
+25    		 23
+INPUT
+29    		 20
+OUTPUT
+25    		 23
+------------------
+Job Identification number(DEC): 59
+nature of termination: normal
+input segment:
+0000000000001001
+output segment:
+0000001000000000
+clock value(HEX):1d3
+runtime(DECIMAL):467
+Execution time(DECIMAL):377
+input/output time(DECIMAL):30
+Page fault time(DEC) :50
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 10.94% Ratio: 1:9.14
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.37% Ratio: 1:73.14
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 29620
+Departure time(dec): 29760
+turnaround time(dec): 140
+
+PMT 
+Page number  Frame number
+6    		 6
+3    		 7
+4    		 8
+5    		 9
+8    		 10
+2    		 11
+OUTPUT
+8    		 10
+------------------
+Job Identification number(DEC): 57
+nature of termination: normal
+input segment:
+0000000000000100
+0000000000010011
+0000101111001101
+0000001000110100
+0000010101100111
+output segment:
+0000101111001101
+0000000000010011
+clock value(HEX):206
+runtime(DECIMAL):518
+Execution time(DECIMAL):213
+input/output time(DECIMAL):105
+Page fault time(DEC) :170
+Segment fault time(DEC) :30
+Memory utilization:
+Words:- Percentage: 15.23% Ratio: 1:6.56
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.98% Ratio: 1:33.57
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 29760
+Departure time(dec): 30000
+turnaround time(dec): 240
+
+SNAPSHOT at 30020 VTU-----------------------------------+
+Ready queue: 61 52 62 63 64 
+Id of current job executing: 64
+Memory utilization: 18.75
+Disk utilization: 0.634765625
+Current degree of multiprogramming: 5
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+0    		 0
+4    		 1
+2    		 2
+1    		 3
+38    		 4
+INPUT
+2    		 2
+OUTPUT
+38    		 4
+------------------
+Job Identification number(DEC): 61
+nature of termination: normal
+input segment:
+0000000000000100
+0000000000000001
+0000000000000010
+0000000000000011
+0000000000001001
+output segment:
+0000000000001111
+clock value(HEX):135
+runtime(DECIMAL):309
+Execution time(DECIMAL):149
+input/output time(DECIMAL):90
+Page fault time(DEC) :40
+Segment fault time(DEC) :30
+Memory utilization:
+Words:- Percentage: 5.08% Ratio: 1:19.69
+Pages:- Percentage: 12.5% Ratio: 1:8
+Disk utilization:
+Words:- Percentage: 1.07% Ratio: 1:93.09
+Pages:- Percentage: 1.56% Ratio: 1:64
+Arrival time(dec): 30000
+Departure time(dec): 30440
+turnaround time(dec): 440
+
+SNAPSHOT at 30520 VTU-----------------------------------+
+Ready queue: 65 52 62 63 
+Id of current job executing: 64
+Memory utilization: 18.75
+Disk utilization: 0.439453125
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+0    		 6
+2    		 7
+8    		 8
+1    		 9
+4    		 10
+5    		 11
+INPUT
+8    		 8
+OUTPUT
+4    		 10
+------------------
+Job Identification number(DEC): 52
+nature of termination: normal
+input segment:
+1111111111111110
+output segment:
+0000000000000000
+0000000000000001
+0000000000000001
+0000000000000001
+0000000000000001
+0000000000000001
+0000000000000001
+0000000000000001
+0000000000000001
+0000000000000001
+0000000000000001
+0000000000000001
+0000000000000001
+0000000000000001
+0000000000000001
+0000000000000001
+clock value(HEX):4de
+runtime(DECIMAL):1246
+Execution time(DECIMAL):931
+input/output time(DECIMAL):255
+Page fault time(DEC) :50
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 13.67% Ratio: 1:7.31
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.32% Ratio: 1:75.85
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 30440
+Departure time(dec): 30880
+turnaround time(dec): 440
+
+SNAPSHOT at 31020 VTU-----------------------------------+
+Ready queue: 64 65 66 62 
+Id of current job executing: 63
+Memory utilization: 15.625
+Disk utilization: 0.68359375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+5    		 18
+14    		 19
+21    		 20
+0    		 21
+3    		 22
+4    		 23
+INPUT
+21    		 20
+OUTPUT
+14    		 19
+------------------
+Job Identification number(DEC): 64
+nature of termination: normal
+input segment:
+0000000000010000
+0000000000000010
+output segment:
+0000000000010000
+0000000001000000
+0000000000000000
+clock value(HEX):147
+runtime(DECIMAL):327
+Execution time(DECIMAL):167
+input/output time(DECIMAL):75
+Page fault time(DEC) :70
+Segment fault time(DEC) :15
+Memory utilization:
+Words:- Percentage: 16.41% Ratio: 1:6.1
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.49% Ratio: 1:40.16
+Pages:- Percentage: 3.12% Ratio: 1:32
+Arrival time(dec): 30880
+Departure time(dec): 31360
+turnaround time(dec): 480
+
+SNAPSHOT at 31520 VTU-----------------------------------+
+Ready queue: 63 67 65 66 
+Id of current job executing: 62
+Memory utilization: 15.625
+Disk utilization: 0.5859375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+2    		 24
+6    		 25
+22    		 26
+3    		 27
+4    		 28
+1    		 29
+OUTPUT
+22    		 26
+------------------
+Job Identification number(DEC): 65
+nature of termination: normal
+input segment:
+0000000000000111
+0000000000000011
+0000000000100000
+output segment:
+0000000000000011
+0000000000000111
+0000000000100000
+clock value(HEX):123
+runtime(DECIMAL):291
+Execution time(DECIMAL):101
+input/output time(DECIMAL):90
+Page fault time(DEC) :80
+Segment fault time(DEC) :20
+Memory utilization:
+Words:- Percentage: 15.23% Ratio: 1:6.56
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 3.08% Ratio: 1:32.51
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 31360
+Departure time(dec): 31600
+turnaround time(dec): 240
+
+SNAPSHOT at 32020 VTU-----------------------------------+
+Ready queue: 62 63 67 68 
+Id of current job executing: 66
+Memory utilization: 18.75
+Disk utilization: 0.5859375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+0    		 0
+3    		 1
+1    		 2
+INPUT
+3    		 1
+------------------
+Job Identification number(DEC): 66
+nature of termination: normal
+input segment:
+0000000000001001
+output segment:
+0000000000101101
+clock value(HEX):16d
+runtime(DECIMAL):365
+Execution time(DECIMAL):295
+input/output time(DECIMAL):30
+Page fault time(DEC) :30
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 10.16% Ratio: 1:9.85
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.27% Ratio: 1:78.77
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 31600
+Departure time(dec): 32340
+turnaround time(dec): 740
+
+SNAPSHOT at 32520 VTU-----------------------------------+
+Ready queue: 69 62 63 67 
+Id of current job executing: 68
+Memory utilization: 15.625
+Disk utilization: 0.5859375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 33020 VTU-----------------------------------+
+Ready queue: 69 62 63 67 
+Id of current job executing: 68
+Memory utilization: 15.625
+Disk utilization: 0.5859375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+0    		 12
+2    		 13
+13    		 14
+3    		 15
+1    		 16
+9    		 17
+INPUT
+13    		 14
+------------------
+Job Identification number(DEC): 63
+nature of termination: normal
+input segment:
+0000000000001010
+output segment:
+0000000000000001
+0000000000000010
+0000000000000011
+0000000000000101
+0000000000001000
+0000000000001101
+0000000000010101
+0000000000100010
+0000000000110111
+0000000001011001
+clock value(HEX):316
+runtime(DECIMAL):790
+Execution time(DECIMAL):555
+input/output time(DECIMAL):165
+Page fault time(DEC) :60
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 14.06% Ratio: 1:7.11
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 1.76% Ratio: 1:56.89
+Pages:- Percentage: 2.34% Ratio: 1:42.67
+Arrival time(dec): 32340
+Departure time(dec): 33200
+turnaround time(dec): 860
+
+SNAPSHOT at 33520 VTU-----------------------------------+
+Ready queue: 68 69 62 70 
+Id of current job executing: 67
+Memory utilization: 18.75
+Disk utilization: 0.5859375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+0    		 18
+6    		 19
+25    		 20
+2    		 21
+1    		 22
+INPUT
+25    		 20
+------------------
+Job Identification number(DEC): 69
+nature of termination: normal
+input segment:
+0000000000000110
+0000000000000011
+0000000000001011
+0000000000001010
+0000000000001011
+0000000000011110
+0000000000010000
+output segment:
+0000000000001101
+clock value(HEX):1d9
+runtime(DECIMAL):473
+Execution time(DECIMAL):263
+input/output time(DECIMAL):120
+Page fault time(DEC) :50
+Segment fault time(DEC) :40
+Memory utilization:
+Words:- Percentage: 10.94% Ratio: 1:9.14
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.37% Ratio: 1:73.14
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 33200
+Departure time(dec): 33980
+turnaround time(dec): 780
+
+SNAPSHOT at 34020 VTU-----------------------------------+
+Ready queue: 67 68 71 62 
+Id of current job executing: 70
+Memory utilization: 18.75
+Disk utilization: 0.68359375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 34520 VTU-----------------------------------+
+Ready queue: 67 68 71 62 
+Id of current job executing: 70
+Memory utilization: 18.75
+Disk utilization: 0.68359375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+0    		 6
+1    		 7
+8    		 8
+INPUT
+8    		 8
+------------------
+Job Identification number(DEC): 67
+nature of termination: normal
+input segment:
+0000000000010100
+output segment:
+0000000011010010
+clock value(HEX):2b7
+runtime(DECIMAL):695
+Execution time(DECIMAL):625
+input/output time(DECIMAL):30
+Page fault time(DEC) :30
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 11.33% Ratio: 1:8.83
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.37% Ratio: 1:73.14
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 33980
+Departure time(dec): 34660
+turnaround time(dec): 680
+
+PMT 
+Page number  Frame number
+0    		 6
+1    		 7
+7    		 8
+2    		 9
+3    		 10
+4    		 11
+INPUT
+7    		 8
+OUTPUT
+3    		 10
+------------------
+Job Identification number(DEC): 62
+nature of termination: normal
+input segment:
+0000000000100011
+output segment:
+0000000000000001
+0000000000000001
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000001
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+clock value(HEX):4de
+runtime(DECIMAL):1246
+Execution time(DECIMAL):931
+input/output time(DECIMAL):255
+Page fault time(DEC) :50
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 10.16% Ratio: 1:9.85
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.22% Ratio: 1:81.92
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 34660
+Departure time(dec): 34740
+turnaround time(dec): 80
+
+SNAPSHOT at 35020 VTU-----------------------------------+
+Ready queue: 73 70 72 68 
+Id of current job executing: 71
+Memory utilization: 15.625
+Disk utilization: 0.634765625
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+0    		 12
+1    		 13
+16    		 14
+2    		 15
+12    		 16
+INPUT
+16    		 14
+OUTPUT
+12    		 16
+------------------
+Job Identification number(DEC): 73
+nature of termination: normal
+input segment:
+0000000000000101
+output segment:
+0000000000000101
+0000000011100001
+clock value(HEX):a8
+runtime(DECIMAL):168
+Execution time(DECIMAL):73
+input/output time(DECIMAL):45
+Page fault time(DEC) :40
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 10.16% Ratio: 1:9.85
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.32% Ratio: 1:75.85
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 34740
+Departure time(dec): 35260
+turnaround time(dec): 520
+
+PMT 
+Page number  Frame number
+7    		 24
+8    		 25
+0    		 26
+26    		 27
+9    		 28
+10    		 29
+OUTPUT
+26    		 27
+------------------
+Job Identification number(DEC): 70
+nature of termination: normal
+input segment:
+0000000000001010
+0000000000001111
+0000000000000101
+output segment:
+0000000000000101
+0000000000000000
+0000000000001111
+clock value(HEX):1d3
+runtime(DECIMAL):467
+Execution time(DECIMAL):217
+input/output time(DECIMAL):90
+Page fault time(DEC) :140
+Segment fault time(DEC) :20
+Memory utilization:
+Words:- Percentage: 14.45% Ratio: 1:6.92
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 4.49% Ratio: 1:22.26
+Pages:- Percentage: 5.08% Ratio: 1:19.69
+Arrival time(dec): 35260
+Departure time(dec): 35500
+turnaround time(dec): 240
+
+SNAPSHOT at 35520 VTU-----------------------------------+
+Ready queue: 72 68 71 74 75 
+Id of current job executing: 75
+Memory utilization: 18.75
+Disk utilization: 0.78125
+Current degree of multiprogramming: 5
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+0    		 6
+6    		 7
+11    		 8
+1    		 9
+8    		 10
+INPUT
+11    		 8
+OUTPUT
+8    		 10
+------------------
+Job Identification number(DEC): 72
+nature of termination: normal
+input segment:
+0000000000000101
+0000000000010000
+0000000000001000
+0000000000000011
+0000000000001011
+0000000000001110
+output segment:
+0000000000110100
+clock value(HEX):167
+runtime(DECIMAL):359
+Execution time(DECIMAL):179
+input/output time(DECIMAL):105
+Page fault time(DEC) :40
+Segment fault time(DEC) :35
+Memory utilization:
+Words:- Percentage: 7.81% Ratio: 1:12.8
+Pages:- Percentage: 12.5% Ratio: 1:8
+Disk utilization:
+Words:- Percentage: 1.12% Ratio: 1:89.04
+Pages:- Percentage: 1.56% Ratio: 1:64
+Arrival time(dec): 35500
+Departure time(dec): 35940
+turnaround time(dec): 440
+
+SNAPSHOT at 36020 VTU-----------------------------------+
+Ready queue: 76 68 71 74 
+Id of current job executing: 75
+Memory utilization: 18.75
+Disk utilization: 0.439453125
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+1    		 12
+0    		 13
+5    		 14
+4    		 15
+6    		 16
+8    		 17
+------------------
+Job Identification number(DEC): 68
+nature of termination: normal
+input segment:
+0000000000000100
+0000000000000010
+output segment:
+0000000000000110
+clock value(HEX):2e5
+runtime(DECIMAL):741
+Execution time(DECIMAL):421
+input/output time(DECIMAL):45
+Page fault time(DEC) :260
+Segment fault time(DEC) :15
+Memory utilization:
+Words:- Percentage: 16.8% Ratio: 1:5.95
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 4.1% Ratio: 1:24.38
+Pages:- Percentage: 4.69% Ratio: 1:21.33
+Arrival time(dec): 35940
+Departure time(dec): 36080
+turnaround time(dec): 140
+
+PMT 
+Page number  Frame number
+0    		 18
+2    		 19
+20    		 20
+1    		 21
+17    		 22
+INPUT
+20    		 20
+OUTPUT
+17    		 22
+------------------
+Job Identification number(DEC): 74
+nature of termination: normal
+input segment:
+0000000000000011
+0000000000001001
+0000000000000001
+0000000000000011
+output segment:
+0000000000001101
+clock value(HEX):103
+runtime(DECIMAL):259
+Execution time(DECIMAL):119
+input/output time(DECIMAL):75
+Page fault time(DEC) :40
+Segment fault time(DEC) :25
+Memory utilization:
+Words:- Percentage: 8.98% Ratio: 1:11.13
+Pages:- Percentage: 12.5% Ratio: 1:8
+Disk utilization:
+Words:- Percentage: 1.07% Ratio: 1:93.09
+Pages:- Percentage: 1.56% Ratio: 1:64
+Arrival time(dec): 36080
+Departure time(dec): 36140
+turnaround time(dec): 60
+
+SNAPSHOT at 36520 VTU-----------------------------------+
+Ready queue: 78 75 76 77 
+Id of current job executing: 71
+Memory utilization: 18.75
+Disk utilization: 0.634765625
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+39    		 0
+4    		 1
+3    		 2
+1    		 3
+5    		 4
+6    		 5
+OUTPUT
+39    		 0
+------------------
+Job Identification number(DEC): 71
+nature of termination: normal
+input segment:
+0000000000000011
+0000000100100011
+0000101111001101
+0000001000110100
+output segment:
+0000101111001101
+0000000100100011
+clock value(HEX):1ba
+runtime(DECIMAL):442
+Execution time(DECIMAL):167
+input/output time(DECIMAL):90
+Page fault time(DEC) :160
+Segment fault time(DEC) :25
+Memory utilization:
+Words:- Percentage: 7.81% Ratio: 1:12.8
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.83% Ratio: 1:35.31
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 36140
+Departure time(dec): 36540
+turnaround time(dec): 400
+
+SNAPSHOT at 37020 VTU-----------------------------------+
+Ready queue: 79 78 75 76 
+Id of current job executing: 77
+Memory utilization: 15.625
+Disk utilization: 0.48828125
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+3    		 24
+1    		 25
+28    		 26
+5    		 27
+4    		 28
+2    		 29
+INPUT
+28    		 26
+------------------
+Job Identification number(DEC): 75
+nature of termination: normal
+input segment:
+0000000000010100
+0000000000001000
+output segment:
+0000000000000100
+clock value(HEX):157
+runtime(DECIMAL):343
+Execution time(DECIMAL):213
+input/output time(DECIMAL):45
+Page fault time(DEC) :70
+Segment fault time(DEC) :15
+Memory utilization:
+Words:- Percentage: 13.67% Ratio: 1:7.31
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.34% Ratio: 1:42.67
+Pages:- Percentage: 3.12% Ratio: 1:32
+Arrival time(dec): 36540
+Departure time(dec): 37100
+turnaround time(dec): 560
+
+PMT 
+Page number  Frame number
+0    		 18
+4    		 19
+26    		 20
+2    		 21
+1    		 22
+22    		 23
+INPUT
+26    		 20
+OUTPUT
+22    		 23
+------------------
+Job Identification number(DEC): 79
+nature of termination: normal
+input segment:
+0000000000001010
+output segment:
+0000000000001010
+0000101111010001
+clock value(HEX):b2
+runtime(DECIMAL):178
+Execution time(DECIMAL):73
+input/output time(DECIMAL):45
+Page fault time(DEC) :50
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 11.72% Ratio: 1:8.53
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.46% Ratio: 1:68.27
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 37100
+Departure time(dec): 37180
+turnaround time(dec): 80
+
+PMT 
+Page number  Frame number
+2    		 0
+4    		 1
+6    		 2
+29    		 3
+1    		 4
+3    		 5
+OUTPUT
+29    		 3
+------------------
+Job Identification number(DEC): 76
+nature of termination: normal
+input segment:
+0000000000000111
+0000000000010010
+0000000000010000
+output segment:
+0000000000000111
+0000000000010000
+0000000000010010
+clock value(HEX):123
+runtime(DECIMAL):291
+Execution time(DECIMAL):101
+input/output time(DECIMAL):90
+Page fault time(DEC) :80
+Segment fault time(DEC) :20
+Memory utilization:
+Words:- Percentage: 14.06% Ratio: 1:7.11
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 3.08% Ratio: 1:32.51
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 37180
+Departure time(dec): 37260
+turnaround time(dec): 80
+
+PMT 
+Page number  Frame number
+0    		 6
+3    		 7
+12    		 8
+2    		 9
+1    		 10
+INPUT
+12    		 8
+------------------
+Job Identification number(DEC): 77
+nature of termination: normal
+input segment:
+0000000000000100
+0000000000000011
+0000000000001011
+0000000000001010
+0000000000000001
+output segment:
+0000000000000110
+clock value(HEX):165
+runtime(DECIMAL):357
+Execution time(DECIMAL):187
+input/output time(DECIMAL):90
+Page fault time(DEC) :50
+Segment fault time(DEC) :30
+Memory utilization:
+Words:- Percentage: 12.5% Ratio: 1:8
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.27% Ratio: 1:78.77
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 37260
+Departure time(dec): 37400
+turnaround time(dec): 140
+
+SNAPSHOT at 37520 VTU-----------------------------------+
+Ready queue: 78 80 82 83 
+Id of current job executing: 81
+Memory utilization: 18.75
+Disk utilization: 0.634765625
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+0    		 12
+3    		 13
+13    		 14
+6    		 15
+1    		 16
+4    		 17
+OUTPUT
+13    		 14
+------------------
+Job Identification number(DEC): 78
+nature of termination: normal
+input segment:
+0000000000001001
+output segment:
+0000000000000000
+clock value(HEX):117
+runtime(DECIMAL):279
+Execution time(DECIMAL):129
+input/output time(DECIMAL):30
+Page fault time(DEC) :110
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 13.28% Ratio: 1:7.53
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.88% Ratio: 1:34.71
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 37400
+Departure time(dec): 37760
+turnaround time(dec): 360
+
+SNAPSHOT at 38020 VTU-----------------------------------+
+Ready queue: 81 84 80 82 
+Id of current job executing: 83
+Memory utilization: 18.75
+Disk utilization: 0.634765625
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+1    		 6
+2    		 7
+11    		 8
+5    		 9
+3    		 10
+4    		 11
+INPUT
+11    		 8
+OUTPUT
+4    		 11
+------------------
+Job Identification number(DEC): 82
+nature of termination: normal
+input segment:
+0000000000000011
+output segment:
+0000000000000001
+clock value(HEX):d3
+runtime(DECIMAL):211
+Execution time(DECIMAL):111
+input/output time(DECIMAL):30
+Page fault time(DEC) :60
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 16.02% Ratio: 1:6.24
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.25% Ratio: 1:44.52
+Pages:- Percentage: 3.12% Ratio: 1:32
+Arrival time(dec): 37760
+Departure time(dec): 38320
+turnaround time(dec): 560
+
+PMT 
+Page number  Frame number
+0    		 24
+2    		 25
+31    		 26
+1    		 27
+INPUT
+31    		 26
+------------------
+Job Identification number(DEC): 80
+nature of termination: normal
+input segment:
+0000000000000100
+0000000000000011
+0000000000001011
+0000000000001010
+0000000000000001
+output segment:
+0000000000000110
+clock value(HEX):15b
+runtime(DECIMAL):347
+Execution time(DECIMAL):187
+input/output time(DECIMAL):90
+Page fault time(DEC) :40
+Segment fault time(DEC) :30
+Memory utilization:
+Words:- Percentage: 12.11% Ratio: 1:8.26
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.27% Ratio: 1:78.77
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 38320
+Departure time(dec): 38420
+turnaround time(dec): 100
+
+PMT 
+Page number  Frame number
+12    		 12
+4    		 13
+18    		 14
+0    		 15
+1    		 16
+2    		 17
+INPUT
+18    		 14
+OUTPUT
+12    		 12
+------------------
+Job Identification number(DEC): 83
+nature of termination: normal
+input segment:
+0000000000011111
+output segment:
+0000000000011111
+0000000000001010
+clock value(HEX):ec
+runtime(DECIMAL):236
+Execution time(DECIMAL):121
+input/output time(DECIMAL):45
+Page fault time(DEC) :60
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 13.28% Ratio: 1:7.53
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.1% Ratio: 1:47.63
+Pages:- Percentage: 2.73% Ratio: 1:36.57
+Arrival time(dec): 38420
+Departure time(dec): 38480
+turnaround time(dec): 60
+
+SNAPSHOT at 38520 VTU-----------------------------------+
+Ready queue: 86 85 87 81 
+Id of current job executing: 84
+Memory utilization: 18.75
+Disk utilization: 0.634765625
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 39020 VTU-----------------------------------+
+Ready queue: 86 85 87 81 
+Id of current job executing: 84
+Memory utilization: 18.75
+Disk utilization: 0.634765625
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+1    		 6
+3    		 7
+13    		 8
+0    		 9
+2    		 10
+8    		 11
+INPUT
+13    		 8
+OUTPUT
+8    		 11
+------------------
+Job Identification number(DEC): 87
+nature of termination: normal
+input segment:
+0000000000001011
+0000000000000011
+output segment:
+0000000000000011
+clock value(HEX):b3
+runtime(DECIMAL):179
+Execution time(DECIMAL):69
+input/output time(DECIMAL):45
+Page fault time(DEC) :50
+Segment fault time(DEC) :15
+Memory utilization:
+Words:- Percentage: 14.45% Ratio: 1:6.92
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 1.71% Ratio: 1:58.51
+Pages:- Percentage: 2.34% Ratio: 1:42.67
+Arrival time(dec): 38480
+Departure time(dec): 39200
+turnaround time(dec): 720
+
+SNAPSHOT at 39520 VTU-----------------------------------+
+Ready queue: 84 86 85 88 
+Id of current job executing: 81
+Memory utilization: 15.625
+Disk utilization: 0.634765625
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+3    		 0
+2    		 1
+37    		 2
+5    		 3
+4    		 4
+1    		 5
+OUTPUT
+37    		 2
+------------------
+Job Identification number(DEC): 86
+nature of termination: normal
+input segment:
+0000000000000100
+0000000000010000
+0000000000100000
+output segment:
+0000000000000100
+0000000000010000
+0000000000100000
+clock value(HEX):133
+runtime(DECIMAL):307
+Execution time(DECIMAL):97
+input/output time(DECIMAL):90
+Page fault time(DEC) :100
+Segment fault time(DEC) :20
+Memory utilization:
+Words:- Percentage: 10.94% Ratio: 1:9.14
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 3.08% Ratio: 1:32.51
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 39200
+Departure time(dec): 39680
+turnaround time(dec): 480
+
+PMT 
+Page number  Frame number
+0    		 12
+18    		 13
+2    		 14
+1    		 15
+14    		 16
+INPUT
+18    		 13
+OUTPUT
+14    		 16
+------------------
+Job Identification number(DEC): 88
+nature of termination: normal
+input segment:
+0000000000001110
+output segment:
+0000000000001110
+0010101100010001
+clock value(HEX):a8
+runtime(DECIMAL):168
+Execution time(DECIMAL):73
+input/output time(DECIMAL):45
+Page fault time(DEC) :40
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 10.16% Ratio: 1:9.85
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.32% Ratio: 1:75.85
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 39680
+Departure time(dec): 39840
+turnaround time(dec): 160
+
+SNAPSHOT at 40020 VTU-----------------------------------+
+Ready queue: 90 81 84 89 
+Id of current job executing: 85
+Memory utilization: 18.75
+Disk utilization: 0.439453125
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+19    		 18
+10    		 19
+7    		 20
+8    		 21
+9    		 22
+0    		 23
+OUTPUT
+19    		 18
+------------------
+Job Identification number(DEC): 84
+nature of termination: normal
+input segment:
+0000000000001010
+0000000000001111
+0000000000000000
+output segment:
+0000000000000000
+0000000000000000
+0000000000001111
+clock value(HEX):1e7
+runtime(DECIMAL):487
+Execution time(DECIMAL):217
+input/output time(DECIMAL):90
+Page fault time(DEC) :160
+Segment fault time(DEC) :20
+Memory utilization:
+Words:- Percentage: 11.33% Ratio: 1:8.83
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 4.44% Ratio: 1:22.51
+Pages:- Percentage: 5.08% Ratio: 1:19.69
+Arrival time(dec): 39840
+Departure time(dec): 40200
+turnaround time(dec): 360
+
+PMT 
+Page number  Frame number
+0    		 24
+9    		 25
+36    		 26
+2    		 27
+1    		 28
+INPUT
+36    		 26
+------------------
+Job Identification number(DEC): 85
+nature of termination: normal
+input segment:
+0000000000000111
+0000000000000011
+0000000000001011
+0000000000001010
+0000000000000001
+0000000000010000
+0000000000001001
+0000000010010000
+output segment:
+0000000000011011
+clock value(HEX):213
+runtime(DECIMAL):531
+Execution time(DECIMAL):301
+input/output time(DECIMAL):135
+Page fault time(DEC) :50
+Segment fault time(DEC) :45
+Memory utilization:
+Words:- Percentage: 13.67% Ratio: 1:7.31
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.03% Ratio: 1:97.52
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 40200
+Departure time(dec): 40260
+turnaround time(dec): 60
+
+SNAPSHOT at 40520 VTU-----------------------------------+
+Ready queue: 89 92 90 81 
+Id of current job executing: 91
+Memory utilization: 18.75
+Disk utilization: 0.634765625
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+1    		 6
+3    		 7
+13    		 8
+0    		 9
+2    		 10
+8    		 11
+INPUT
+13    		 8
+OUTPUT
+8    		 11
+------------------
+Job Identification number(DEC): 92
+nature of termination: normal
+input segment:
+0000000000001111
+0000000000000011
+output segment:
+0000000000000011
+clock value(HEX):b3
+runtime(DECIMAL):179
+Execution time(DECIMAL):69
+input/output time(DECIMAL):45
+Page fault time(DEC) :50
+Segment fault time(DEC) :15
+Memory utilization:
+Words:- Percentage: 14.45% Ratio: 1:6.92
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 1.71% Ratio: 1:58.51
+Pages:- Percentage: 2.34% Ratio: 1:42.67
+Arrival time(dec): 40260
+Departure time(dec): 40980
+turnaround time(dec): 720
+
+PMT 
+Page number  Frame number
+2    		 24
+6    		 25
+26    		 26
+4    		 27
+1    		 28
+3    		 29
+OUTPUT
+26    		 26
+------------------
+Job Identification number(DEC): 90
+nature of termination: normal
+input segment:
+0000000000001001
+0000000000010011
+0000000000100000
+output segment:
+0000000000001001
+0000000000010011
+0000000000100000
+clock value(HEX):11f
+runtime(DECIMAL):287
+Execution time(DECIMAL):97
+input/output time(DECIMAL):90
+Page fault time(DEC) :80
+Segment fault time(DEC) :20
+Memory utilization:
+Words:- Percentage: 17.19% Ratio: 1:5.82
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 3.08% Ratio: 1:32.51
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 40980
+Departure time(dec): 41020
+turnaround time(dec): 40
+
+SNAPSHOT at 41040 VTU-----------------------------------+
+Ready queue: 81 91 89 93 94 
+Id of current job executing: 94
+Memory utilization: 18.75
+Disk utilization: 0.634765625
+Current degree of multiprogramming: 5
+-------------------------------------------------------+
+SNAPSHOT at 41540 VTU-----------------------------------+
+Ready queue: 91 89 93 94 
+Id of current job executing: 81
+Memory utilization: 18.75
+Disk utilization: 0.634765625
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+2    		 0
+6    		 1
+3    		 2
+35    		 3
+4    		 4
+1    		 5
+OUTPUT
+35    		 3
+------------------
+Job Identification number(DEC): 91
+nature of termination: normal
+input segment:
+0000000000000111
+0000000000010011
+0000000000010000
+output segment:
+0000000000000111
+0000000000010000
+0000000000010011
+clock value(HEX):12d
+runtime(DECIMAL):301
+Execution time(DECIMAL):101
+input/output time(DECIMAL):90
+Page fault time(DEC) :90
+Segment fault time(DEC) :20
+Memory utilization:
+Words:- Percentage: 14.06% Ratio: 1:7.11
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 3.08% Ratio: 1:32.51
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 41020
+Departure time(dec): 41580
+turnaround time(dec): 560
+
+PMT 
+Page number  Frame number
+0    		 12
+18    		 13
+1    		 14
+INPUT
+18    		 13
+------------------
+Job Identification number(DEC): 93
+nature of termination: normal
+input segment:
+0000000000000100
+output segment:
+0000000000001010
+clock value(HEX):d7
+runtime(DECIMAL):215
+Execution time(DECIMAL):145
+input/output time(DECIMAL):30
+Page fault time(DEC) :30
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 10.16% Ratio: 1:9.85
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.22% Ratio: 1:81.92
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 41580
+Departure time(dec): 41840
+turnaround time(dec): 260
+
+PMT 
+Page number  Frame number
+1    		 18
+24    		 19
+3    		 20
+0    		 21
+2    		 22
+19    		 23
+INPUT
+24    		 19
+OUTPUT
+19    		 23
+------------------
+Job Identification number(DEC): 94
+nature of termination: normal
+input segment:
+0000000000001010
+0000000000000011
+output segment:
+0000000000000011
+clock value(HEX):b3
+runtime(DECIMAL):179
+Execution time(DECIMAL):69
+input/output time(DECIMAL):45
+Page fault time(DEC) :50
+Segment fault time(DEC) :15
+Memory utilization:
+Words:- Percentage: 13.67% Ratio: 1:7.31
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 1.71% Ratio: 1:58.51
+Pages:- Percentage: 2.34% Ratio: 1:42.67
+Arrival time(dec): 41840
+Departure time(dec): 41880
+turnaround time(dec): 40
+
+SNAPSHOT at 42040 VTU-----------------------------------+
+Ready queue: 96 97 81 95 
+Id of current job executing: 89
+Memory utilization: 18.75
+Disk utilization: 0.634765625
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+0    		 0
+2    		 1
+3    		 2
+1    		 3
+32    		 4
+33    		 5
+INPUT
+3    		 2
+OUTPUT
+32    		 4
+------------------
+Job Identification number(DEC): 81
+nature of termination: normal
+input segment:
+0000000000010010
+output segment:
+0000000000000000
+0000000000000001
+0000000000000000
+0000000000000000
+0000000000000001
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+clock value(HEX):4de
+runtime(DECIMAL):1246
+Execution time(DECIMAL):931
+input/output time(DECIMAL):255
+Page fault time(DEC) :50
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 7.42% Ratio: 1:13.47
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.32% Ratio: 1:75.85
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 41880
+Departure time(dec): 42520
+turnaround time(dec): 640
+
+SNAPSHOT at 42540 VTU-----------------------------------+
+Ready queue: 95 89 96 97 98 
+Id of current job executing: 98
+Memory utilization: 18.75
+Disk utilization: 0.634765625
+Current degree of multiprogramming: 5
+-------------------------------------------------------+
+SNAPSHOT at 43040 VTU-----------------------------------+
+Ready queue: 89 96 97 98 
+Id of current job executing: 95
+Memory utilization: 18.75
+Disk utilization: 0.634765625
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+20    		 12
+6    		 13
+25    		 14
+3    		 15
+0    		 16
+2    		 17
+INPUT
+25    		 14
+OUTPUT
+20    		 12
+------------------
+Job Identification number(DEC): 98
+nature of termination: normal
+input segment:
+0000000000011010
+0000000000000111
+output segment:
+0000000000000111
+clock value(HEX):bd
+runtime(DECIMAL):189
+Execution time(DECIMAL):69
+input/output time(DECIMAL):45
+Page fault time(DEC) :60
+Segment fault time(DEC) :15
+Memory utilization:
+Words:- Percentage: 12.11% Ratio: 1:8.26
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 1.71% Ratio: 1:58.51
+Pages:- Percentage: 2.34% Ratio: 1:42.67
+Arrival time(dec): 42520
+Departure time(dec): 43340
+turnaround time(dec): 820
+
+SNAPSHOT at 43540 VTU-----------------------------------+
+Ready queue: 95 89 96 97 
+Id of current job executing: 99
+Memory utilization: 18.75
+Disk utilization: 0.5859375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 44040 VTU-----------------------------------+
+Ready queue: 95 89 96 97 
+Id of current job executing: 99
+Memory utilization: 18.75
+Disk utilization: 0.5859375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 44540 VTU-----------------------------------+
+Ready queue: 95 89 96 97 
+Id of current job executing: 99
+Memory utilization: 18.75
+Disk utilization: 0.5859375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 45040 VTU-----------------------------------+
+Ready queue: 95 89 96 97 
+Id of current job executing: 99
+Memory utilization: 18.75
+Disk utilization: 0.5859375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+0    		 24
+30    		 25
+2    		 26
+1    		 27
+3    		 28
+25    		 29
+INPUT
+30    		 25
+OUTPUT
+25    		 29
+------------------
+Job Identification number(DEC): 95
+nature of termination: normal
+input segment:
+0000000000001011
+output segment:
+0000000000000010
+0000000000000100
+0000000000000110
+0000000000001000
+0000000000001010
+clock value(HEX):30e
+runtime(DECIMAL):782
+Execution time(DECIMAL):632
+input/output time(DECIMAL):90
+Page fault time(DEC) :50
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 13.67% Ratio: 1:7.31
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 1.71% Ratio: 1:58.51
+Pages:- Percentage: 2.34% Ratio: 1:42.67
+Arrival time(dec): 43340
+Departure time(dec): 45280
+turnaround time(dec): 1940
+
+SNAPSHOT at 45540 VTU-----------------------------------+
+Ready queue: 99 100 89 96 
+Id of current job executing: 97
+Memory utilization: 18.75
+Disk utilization: 0.48828125
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+4    		 0
+6    		 1
+31    		 2
+1    		 3
+5    		 4
+2    		 5
+OUTPUT
+31    		 2
+------------------
+Job Identification number(DEC): 96
+nature of termination: normal
+input segment:
+0000000000000101
+0000000100100011
+0000101111001101
+0000001000110100
+0000010101100111
+0000001011111111
+output segment:
+0000101111001101
+0000000100100011
+clock value(HEX):28e
+runtime(DECIMAL):654
+Execution time(DECIMAL):259
+input/output time(DECIMAL):120
+Page fault time(DEC) :240
+Segment fault time(DEC) :35
+Memory utilization:
+Words:- Percentage: 7.81% Ratio: 1:12.8
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.93% Ratio: 1:34.13
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 45280
+Departure time(dec): 45640
+turnaround time(dec): 360
+
+PMT 
+Page number  Frame number
+7    		 18
+8    		 19
+0    		 20
+9    		 21
+26    		 22
+10    		 23
+OUTPUT
+26    		 22
+------------------
+Job Identification number(DEC): 99
+nature of termination: normal
+input segment:
+0000000000001010
+0000000000001111
+0000000000010000
+output segment:
+0000000000001010
+0000000000000000
+0000000000010000
+clock value(HEX):1d3
+runtime(DECIMAL):467
+Execution time(DECIMAL):217
+input/output time(DECIMAL):90
+Page fault time(DEC) :140
+Segment fault time(DEC) :20
+Memory utilization:
+Words:- Percentage: 14.45% Ratio: 1:6.92
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 4.49% Ratio: 1:22.26
+Pages:- Percentage: 5.08% Ratio: 1:19.69
+Arrival time(dec): 45640
+Departure time(dec): 45700
+turnaround time(dec): 60
+
+SNAPSHOT at 46040 VTU-----------------------------------+
+Ready queue: 101 97 102 100 
+Id of current job executing: 89
+Memory utilization: 15.625
+Disk utilization: 0.68359375
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+1    		 6
+0    		 7
+4    		 8
+5    		 9
+6    		 10
+8    		 11
+OUTPUT
+8    		 11
+------------------
+Job Identification number(DEC): 97
+nature of termination: normal
+input segment:
+0000000000000100
+0000000000000010
+output segment:
+0000000000000110
+clock value(HEX):2e5
+runtime(DECIMAL):741
+Execution time(DECIMAL):421
+input/output time(DECIMAL):45
+Page fault time(DEC) :260
+Segment fault time(DEC) :15
+Memory utilization:
+Words:- Percentage: 16.41% Ratio: 1:6.1
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 4.05% Ratio: 1:24.67
+Pages:- Percentage: 4.69% Ratio: 1:21.33
+Arrival time(dec): 45700
+Departure time(dec): 46200
+turnaround time(dec): 500
+
+SNAPSHOT at 46540 VTU-----------------------------------+
+Ready queue: 89 101 103 102 
+Id of current job executing: 100
+Memory utilization: 18.75
+Disk utilization: 0.732421875
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+48    		 0
+4    		 1
+5    		 2
+0    		 3
+1    		 4
+2    		 5
+INPUT
+5    		 2
+OUTPUT
+48    		 0
+------------------
+Job Identification number(DEC): 101
+nature of termination: normal
+input segment:
+0000000000010000
+output segment:
+0000000000010000
+0000000000001010
+clock value(HEX):ec
+runtime(DECIMAL):236
+Execution time(DECIMAL):121
+input/output time(DECIMAL):45
+Page fault time(DEC) :60
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 12.89% Ratio: 1:7.76
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.1% Ratio: 1:47.63
+Pages:- Percentage: 2.73% Ratio: 1:36.57
+Arrival time(dec): 46200
+Departure time(dec): 46700
+turnaround time(dec): 500
+
+SNAPSHOT at 47040 VTU-----------------------------------+
+Ready queue: 100 89 104 103 
+Id of current job executing: 102
+Memory utilization: 18.75
+Disk utilization: 0.634765625
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+SNAPSHOT at 47540 VTU-----------------------------------+
+Ready queue: 100 89 104 103 
+Id of current job executing: 102
+Memory utilization: 18.75
+Disk utilization: 0.634765625
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+3    		 24
+39    		 25
+5    		 26
+6    		 27
+1    		 28
+4    		 29
+OUTPUT
+39    		 25
+------------------
+Job Identification number(DEC): 100
+nature of termination: normal
+input segment:
+0000000000010101
+output segment:
+0000000000000000
+clock value(HEX):17f
+runtime(DECIMAL):383
+Execution time(DECIMAL):193
+input/output time(DECIMAL):30
+Page fault time(DEC) :150
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 15.23% Ratio: 1:6.56
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 3.03% Ratio: 1:33.03
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 46700
+Departure time(dec): 47580
+turnaround time(dec): 880
+
+SNAPSHOT at 48040 VTU-----------------------------------+
+Ready queue: 102 105 89 104 
+Id of current job executing: 103
+Memory utilization: 18.75
+Disk utilization: 0.390625
+Current degree of multiprogramming: 4
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+2    		 12
+3    		 13
+4    		 14
+11    		 15
+5    		 16
+6    		 17
+OUTPUT
+11    		 15
+------------------
+Job Identification number(DEC): 103
+nature of termination: normal
+input segment:
+0000000000000010
+0000000100100011
+0000001011111111
+output segment:
+0000001011111111
+0000000100100011
+clock value(HEX):15a
+runtime(DECIMAL):346
+Execution time(DECIMAL):121
+input/output time(DECIMAL):75
+Page fault time(DEC) :130
+Segment fault time(DEC) :20
+Memory utilization:
+Words:- Percentage: 15.23% Ratio: 1:6.56
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.78% Ratio: 1:35.93
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 47580
+Departure time(dec): 48060
+turnaround time(dec): 480
+
+SNAPSHOT at 48540 VTU-----------------------------------+
+Ready queue: 102 105 89 
+Id of current job executing: 104
+Memory utilization: 0.0
+Disk utilization: 0.390625
+Current degree of multiprogramming: 3
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+2    		 24
+4    		 25
+6    		 26
+29    		 27
+3    		 28
+1    		 29
+OUTPUT
+29    		 27
+------------------
+Job Identification number(DEC): 105
+nature of termination: normal
+input segment:
+0000000000010111
+0000000000010011
+0000000000000010
+output segment:
+0000000000000010
+0000000000010011
+0000000000010111
+clock value(HEX):123
+runtime(DECIMAL):291
+Execution time(DECIMAL):101
+input/output time(DECIMAL):90
+Page fault time(DEC) :80
+Segment fault time(DEC) :20
+Memory utilization:
+Words:- Percentage: 15.23% Ratio: 1:6.56
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 3.12% Ratio: 1:32
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 47580
+Departure time(dec): 48660
+turnaroundtime(dec): 1080
+
+PMT 
+Page number  Frame number
+0    		 18
+2    		 19
+20    		 20
+3    		 21
+4    		 22
+1    		 23
+------------------
+Job Identification number(DEC): 89
+nature of termination: normal
+input segment:
+0000000000001001
+output segment:
+0000001000000000
+0000000100000000
+0000000010000000
+0000000001000000
+0000000000100000
+0000000000010000
+0000000000001000
+0000000000000100
+0000000000000010
+clock value(HEX):74d
+runtime(DECIMAL):1869
+Execution time(DECIMAL):1619
+input/output time(DECIMAL):150
+Page fault time(DEC) :90
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 11.33% Ratio: 1:8.83
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2% Ratio: 1:49.95
+Pages:- Percentage: 2.73% Ratio: 1:36.57
+Arrival time(dec): 47580
+Departure time(dec): 48680
+turnaroundtime(dec): 1100
+
+SNAPSHOT at 49040 VTU-----------------------------------+
+Ready queue: 104 
+Id of current job executing: 102
+Memory utilization: 0.0
+Disk utilization: 0.390625
+Current degree of multiprogramming: 1
+-------------------------------------------------------+
+PMT 
+Page number  Frame number
+3    		 18
+20    		 19
+6    		 20
+1    		 21
+5    		 22
+4    		 23
+OUTPUT
+20    		 19
+------------------
+Job Identification number(DEC): 104
+nature of termination: normal
+input segment:
+0000000010001001
+output segment:
+0000000000000000
+clock value(HEX):1f1
+runtime(DECIMAL):497
+Execution time(DECIMAL):257
+input/output time(DECIMAL):30
+Page fault time(DEC) :200
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 13.67% Ratio: 1:7.31
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 2.88% Ratio: 1:34.71
+Pages:- Percentage: 3.52% Ratio: 1:28.44
+Arrival time(dec): 47580
+Departure time(dec): 49060
+turnaroundtime(dec): 1480
+
+PMT 
+Page number  Frame number
+0    		 6
+4    		 7
+10    		 8
+2    		 9
+1    		 10
+7    		 11
+INPUT
+10    		 8
+------------------
+Job Identification number(DEC): 102
+nature of termination: normal
+input segment:
+0000000000010011
+output segment:
+0000000000000001
+0000000000000001
+0000000000000000
+0000000000000000
+0000000000000001
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+clock value(HEX):4e8
+runtime(DECIMAL):1256
+Execution time(DECIMAL):931
+input/output time(DECIMAL):255
+Page fault time(DEC) :60
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 10.94% Ratio: 1:9.14
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.27% Ratio: 1:78.77
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Arrival time(dec): 47580
+Departure time(dec): 49280
+turnaroundtime(dec): 1700
+
+CLOCK value(hex) c080
+METERING AND REPORTING FACILITY:
+Number of jobs processed(dec): 105
+CPU time
+Maximum(dec): 1604
+Minimum(dec): 54
+Average(dec): 278.96
+Job turnaround time
+Maximum(dec): 3260
+Minimum(dec): 40
+Average(dec): 508.0
+Code segment size
+Batch packet: 
+Maximum(dec): 83
+Minimum(dec): 16
+Average(dec): 42.89
+Computed by loader: 
+Maximum(dec): 97
+Minimum(dec): 21
+Average(dec): 47.71
+Input segment size: 
+Batch packet: 
+Maximum(dec): 8
+Minimum(dec): 1
+Average(dec): 3.22
+Actual number of inputs: 
+Maximum(dec): 8
+Minimum(dec): 1
+Average(dec): 2.59
+Output segment size: 
+Batch packet: 
+Maximum(dec): 16
+Minimum(dec): 1
+Average(dec): 3.34
+Actual number of outputs: 
+Maximum(dec): 16
+Minimum(dec): 1
+Average(dec): 3.05
+CPU shots: 
+Maximum(dec): 88
+Minimum(dec): 5
+Average(dec): 22.47
+Number of jobs terminated normally: 105
+Number of jobs terminated abnormally: 0
+Mean turnaround time: 508.0
+Mean page faults: 9.79
+Mean Memory utilization: 15.02
+Mean Disk utilization: 2.33

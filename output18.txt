@@ -1,0 +1,433 @@
+PMT for 15VTU:
+Page number  Frame number
+0   		  12
+------------------
+PMT for 30VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+------------------
+PMT for 45VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+------------------
+PMT for 60VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+------------------
+PMT for 75VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+------------------
+PMT for 90VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+------------------
+PMT for 105VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+------------------
+PMT for 120VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+------------------
+PMT for 135VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+------------------
+PMT for 150VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+------------------
+PMT for 165VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+------------------
+PMT for 180VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+------------------
+PMT for 195VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 210VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 225VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 240VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 255VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 270VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 285VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 300VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 315VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 330VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 345VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 360VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 375VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 390VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 405VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 420VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 435VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 450VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 465VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 480VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 495VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 510VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 525VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 540VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 555VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 570VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 585VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 600VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 615VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 630VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 645VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 660VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 675VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 690VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+PMT for 705VTU:
+Page number  Frame number
+0    		 12
+22    		 13
+2    		 14
+1    		 15
+3    		 16
+17    		 17
+INPUT
+22    		 13
+OUTPUT
+17    		 17
+------------------
+PMT for 720VTU:
+Page number  Frame number
+0   		  12
+22   		  13
+2   		  14
+1   		  15
+3   		  16
+17   		  17
+------------------
+Job Identification number(HEX): 01
+nature of termination: normal
+input segment:
+0000000000001010
+output segment:
+0000000000000010
+0000000000000100
+0000000000000110
+0000000000001000
+0000000000001010
+clock value(HEX):2de
+runtime(DECIMAL):734
+Execution time(DECIMAL):584
+input/output time(DECIMAL):90
+Page fault time(DEC) :50
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 14.06% Ratio: 1:7.11
+Pages:- Percentage: 18.75% Ratio: 1:5.33
+Disk utilization:
+Words:- Percentage: 1.76% Ratio: 1:56.89
+Pages:- Percentage: 2.34% Ratio: 1:42.67
+Memory fragmentation(DEC) :0
+Disk fragmentation(DEC)   :4.333333333333333

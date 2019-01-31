@@ -1,0 +1,105 @@
+PMT for 15VTU:
+Page number  Frame number
+0   		  0
+------------------
+PMT for 30VTU:
+Page number  Frame number
+0   		  0
+4   		  1
+3   		  2
+------------------
+PMT for 45VTU:
+Page number  Frame number
+0   		  0
+4   		  1
+3   		  2
+------------------
+PMT for 60VTU:
+Page number  Frame number
+0   		  0
+4   		  1
+3   		  2
+2   		  3
+------------------
+PMT for 75VTU:
+Page number  Frame number
+0   		  0
+4   		  1
+3   		  2
+2   		  3
+------------------
+PMT for 90VTU:
+Page number  Frame number
+0   		  0
+4   		  1
+3   		  2
+2   		  3
+------------------
+PMT for 105VTU:
+Page number  Frame number
+0   		  0
+4   		  1
+3   		  2
+2   		  3
+1   		  4
+------------------
+PMT for 120VTU:
+Page number  Frame number
+0   		  0
+4   		  1
+3   		  2
+2   		  3
+1   		  4
+------------------
+PMT for 135VTU:
+Page number  Frame number
+0   		  0
+4   		  1
+3   		  2
+2   		  3
+1   		  4
+37   		  5
+------------------
+PMT for 150VTU:
+Page number  Frame number
+0   		  0
+4   		  1
+3   		  2
+2   		  3
+1   		  4
+37   		  5
+------------------
+PMT for 165VTU:
+Page number  Frame number
+0    		 0
+4    		 1
+3    		 2
+2    		 3
+1    		 4
+37    		 5
+INPUT
+3    		 2
+OUTPUT
+37    		 5
+------------------
+Job Identification number(HEX): 01
+nature of termination: normal
+input segment:
+0000000000000100
+output segment:
+0000000000000100
+0000000001100100
+clock value(HEX):b2
+runtime(DECIMAL):178
+Execution time(DECIMAL):73
+input/output time(DECIMAL):45
+Page fault time(DEC) :50
+Segment fault time(DEC) :10
+Memory utilization:
+Words:- Percentage: 7.81% Ratio: 1:12.8
+Pages:- Percentage: 15.62% Ratio: 1:6.4
+Disk utilization:
+Words:- Percentage: 1.37% Ratio: 1:73.14
+Pages:- Percentage: 1.95% Ratio: 1:51.2
+Memory fragmentation(DEC) :0
+Disk fragmentation(DEC)   :5.0
